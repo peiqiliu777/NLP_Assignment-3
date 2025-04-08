@@ -1,0 +1,8 @@
+# Large data files
+self-rag-main/ALCE/data/*.json
+self-rag-main/psgs_w100.tsv
+self-rag-main/retrieval_lm/eval_data/*.json
+self-rag-main/retrieval_lm/eval_data/*.jsonl
+# Git files
+.git/objects/pack/*.pack
+.git/objects/*/*
