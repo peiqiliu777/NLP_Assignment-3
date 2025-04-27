@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "model": "openai/gpt-4o-mini",
+    "timestamp": "2025-04-25T03:06:57.547922",
+    "api_endpoint": "https://cmu.litellm.ai"
+  },
+  "scores": {
+    "regulatory_accuracy": 4.014362657091562,
+    "compliance_coverage": 3.2495511669658885,
+    "source_utilization": 2.2800718132854576,
+    "citation_accuracy": 2.7019748653500897,
+    "overall_score": 3.0614901256732496
+  }
+}

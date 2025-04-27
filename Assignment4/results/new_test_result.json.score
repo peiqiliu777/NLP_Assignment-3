@@ -1,0 +1,11 @@
+{
+    "length": 36.92857142857143,
+    "str_em": 0.0,
+    "str_hit": 0.0,
+    "rougeLsum": 38.29023377451946,
+    "short_answer_coverage": 0.0,
+    "long_answer_alignment": 0.0,
+    "document_support": 0.0,
+    "citation_accuracy": 0.0,
+    "llm_overall_score": 0.0
+}
