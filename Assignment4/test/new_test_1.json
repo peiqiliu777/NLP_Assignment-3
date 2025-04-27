@@ -1,0 +1,1821 @@
+[
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC plays a crucial role in maintaining the safety and soundness of the financial system in the United States.",
+        "question": "What is the primary mission of the Federal Deposit Insurance Corporation (FDIC)?",
+        "short_answers": [
+          "Maintain financial stability",
+          "Ensure public confidence",
+          "Secure bank deposits"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Ensuring secure communication is critical for maintaining trust and protecting sensitive information on federal websites.",
+        "question": "How does the FDIC ensure secure communication on its website?",
+        "short_answers": [
+          "Uses HTTPS",
+          "Encrypts data",
+          "Ensures secure transmission"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Financial performance metrics such as return on assets are important indicators of the health and profitability of financial institutions.",
+        "question": "What recent financial performance metric was reported by FDIC-insured institutions?",
+        "short_answers": [
+          "Return on assets of 1.11%",
+          "Reported on February 25, 2025",
+          "FDIC-insured institutions"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 1",
+        "url": "https://www.fdic.gov/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The primary mission of the Federal Deposit Insurance Corporation (FDIC) is to maintain stability and public confidence in the nation’s financial system. The FDIC ensures secure communication on its website by using HTTPS, which encrypts and securely transmits any information provided by users. FDIC-insured institutions reported a return on assets of 1."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stability and public confidence in the nation’s financial system.",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne.",
+            "wikipage": "AML Topic 1"
+          }
+        ],
+        "long_answer": "The primary mission of the Federal Deposit Insurance Corporation (FDIC) is to maintain stability and public confidence in the nation’s financial system. It is an independent agency created by Congress to ensure the security of deposits in banks and savings institutions.\n\nThe FDIC ensures secure communication on its website by using HTTPS, which encrypts and securely transmits any information provided by users. This ensures that users are connecting to the official website and that their data is protected.\n\nFDIC-insured institutions reported a return on assets of 1.11 percent, as indicated in the February 25, 2025, press release."
+      }
+    ],
+    "sample_id": "aml-topic-1-1",
+    "question": "What is the primary mission of the Federal Deposit Insurance Corporation (FDIC)?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-1-1-1",
+        "title": "AML Topic 1 Part 1",
+        "text": "FDIC: Federal Deposit Insurance Corporation Skip to main content An official website of the United States government The.gov means it’s official. Fede",
+        "score": 0.9,
+        "summary": "FDIC: Federal Deposit Insurance Corporation Skip to main content An official website of the United States government The.gov means it’s official. Fede...",
+        "extraction": "FDIC: Federal Deposit Insurance Corporation Skip to main content An official website of the United States government The.gov means it’s official. Fede"
+      },
+      {
+        "id": "doc-aml-topic-1-1-2",
+        "title": "AML Topic 1 Part 2",
+        "text": "ral government websites often end in.gov or.mil. Before sharing sensitive information, make sure you’re on a federal government site. The site is secu",
+        "score": 0.87,
+        "summary": "ral government websites often end in.gov or.mil. Before sharing sensitive information, make sure you’re on a federal government site. The site is secu...",
+        "extraction": "ral government websites often end in.gov or.mil. Before sharing sensitive information, make sure you’re on a federal government site. The site is secu"
+      },
+      {
+        "id": "doc-aml-topic-1-1-3",
+        "title": "AML Topic 1 Part 3",
+        "text": "re. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. C",
+        "score": 0.84,
+        "summary": "re. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. C...",
+        "extraction": "re. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely. C"
+      },
+      {
+        "id": "doc-aml-topic-1-1-4",
+        "title": "AML Topic 1 Part 4",
+        "text": "ambiar a español   About  About The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stabilit",
+        "score": 0.81,
+        "summary": "ambiar a español   About  About The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stabilit...",
+        "extraction": "ambiar a español   About  About The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stabilit"
+      },
+      {
+        "id": "doc-aml-topic-1-1-5",
+        "title": "AML Topic 1 Part 5",
+        "text": "y and public confidence in the nation’s financial system. Learn about the FDIC’s mission, leadership, history, career opportunities, and more. Learn M",
+        "score": 0.78,
+        "summary": "y and public confidence in the nation’s financial system. Learn about the FDIC’s mission, leadership, history, career opportunities, and more. Learn M...",
+        "extraction": "y and public confidence in the nation’s financial system. Learn about the FDIC’s mission, leadership, history, career opportunities, and more. Learn M"
+      },
+      {
+        "id": "doc-aml-topic-1-1-6",
+        "title": "AML Topic 1 Part 6",
+        "text": "ore About the FDIC What We Do Leadership Careers Initiatives Strategic Plans Financial Reports History Governance Ombudsman Doing Business with the FD",
+        "score": 0.75,
+        "summary": "ore About the FDIC What We Do Leadership Careers Initiatives Strategic Plans Financial Reports History Governance Ombudsman Doing Business with the FD...",
+        "extraction": "ore About the FDIC What We Do Leadership Careers Initiatives Strategic Plans Financial Reports History Governance Ombudsman Doing Business with the FD"
+      },
+      {
+        "id": "doc-aml-topic-1-1-7",
+        "title": "AML Topic 1 Part 7",
+        "text": "IC PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC",
+        "score": 0.72,
+        "summary": "IC PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC...",
+        "extraction": "IC PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC"
+      },
+      {
+        "id": "doc-aml-topic-1-1-8",
+        "title": "AML Topic 1 Part 8",
+        "text": "Withdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes Al",
+        "score": 0.69,
+        "summary": "Withdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes Al...",
+        "extraction": "Withdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes Al"
+      }
+    ],
+    "answer": "The primary mission of the Federal Deposit Insurance Corporation (FDIC) is to maintain stability and public confidence in the nation’s financial system. The FDIC ensures secure communication on its website by using HTTPS, which encrypts and securely transmits any information provided by users. FDIC-insured institutions reported a return on assets of 1."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Enterprises need to stay informed about financial regulations and compliance. The FDIC offers resources to help stakeholders understand and adhere to these regulations.",
+        "question": "What resources does the FDIC provide for financial education and compliance?",
+        "short_answers": [
+          "Financial education materials",
+          "Data tools",
+          "Documentation of laws and regulations"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Understanding the performance and trends in the banking industry is crucial for enterprises involved in financial services. The FDIC offers detailed reports to aid in this understanding.",
+        "question": "What type of reports does the FDIC publish on the U.S. banking industry?",
+        "short_answers": [
+          "Quarterly banking profiles",
+          "Working papers",
+          "State banking performance data"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Enterprises must stay updated on regulatory changes and international collaborations that may affect financial operations. The FDIC's recent withdrawal from an international network is an example of such a change.",
+        "question": "What recent change did the FDIC announce regarding its participation in international networks?",
+        "short_answers": [
+          "FDIC withdrew from the Network of Central Banks and Supervisors for Green",
+          "Announced on January 21, 2025"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 1",
+        "url": "https://www.fdic.gov/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The FDIC provides a variety of resources for financial education and compliance, including financial education materials, data tools, documentation of laws and regulations, and information on important initiatives. The FDIC publishes various reports on the U. The FDIC announced its withdrawal from the Network of Central Banks and Supervisors for Green."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "The FDIC provides a wealth of resources for consumers, bankers, analysts, and other stakeholders. Browse our collection of financial education materials, data tools, documentation of laws and regulations, information on important initiatives, and more.",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "The FDIC is proud to be a pre-eminent source of U.S. banking industry re, including quarterly banking profiles, working papers, and state banking performance data.",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "PRESS RELEASE / January 21, 2025 FDIC Withdraws from the Network of Central Banks and Supervisors for Green.",
+            "wikipage": "AML Topic 1"
+          }
+        ],
+        "long_answer": "The FDIC provides a variety of resources for financial education and compliance, including financial education materials, data tools, documentation of laws and regulations, and information on important initiatives. These resources are available for consumers, bankers, analysts, and other stakeholders to enhance their understanding and compliance with financial regulations.\n\nThe FDIC publishes various reports on the U.S. banking industry, including quarterly banking profiles, working papers, and state banking performance data. These reports are designed to provide comprehensive insights and analyses of the banking sector's performance and trends.\n\nThe FDIC announced its withdrawal from the Network of Central Banks and Supervisors for Green. This decision was made public in a press release dated January 21, 2025."
+      }
+    ],
+    "sample_id": "aml-topic-1-2",
+    "question": "What resources does the FDIC provide for financial education and compliance?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-1-2-1",
+        "title": "AML Topic 1 Part 1",
+        "text": "l Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Resources  Resources The FDIC provides a wealth of resources for con",
+        "score": 0.9,
+        "summary": "l Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Resources  Resources The FDIC provides a wealth of resources for con...",
+        "extraction": "l Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Resources  Resources The FDIC provides a wealth of resources for con"
+      },
+      {
+        "id": "doc-aml-topic-1-2-2",
+        "title": "AML Topic 1 Part 2",
+        "text": "sumers, bankers, analysts, and other stakeholders. Browse our collection of financial education materials, data tools, documentation of laws and regul",
+        "score": 0.87,
+        "summary": "sumers, bankers, analysts, and other stakeholders. Browse our collection of financial education materials, data tools, documentation of laws and regul...",
+        "extraction": "sumers, bankers, analysts, and other stakeholders. Browse our collection of financial education materials, data tools, documentation of laws and regul"
+      },
+      {
+        "id": "doc-aml-topic-1-2-3",
+        "title": "AML Topic 1 Part 3",
+        "text": "ations, information on important initiatives, and more. Additional FDIC Resources Consumer Resource Center Banker Resource Center Deposit Insurance Su",
+        "score": 0.84,
+        "summary": "ations, information on important initiatives, and more. Additional FDIC Resources Consumer Resource Center Banker Resource Center Deposit Insurance Su...",
+        "extraction": "ations, information on important initiatives, and more. Additional FDIC Resources Consumer Resource Center Banker Resource Center Deposit Insurance Su"
+      },
+      {
+        "id": "doc-aml-topic-1-2-4",
+        "title": "AML Topic 1 Part 4",
+        "text": "pervision & Examinations Laws & Regulations Resolutions Publications Forms Data Tools Community Banking Re Program International Seminars and Training",
+        "score": 0.81,
+        "summary": "pervision & Examinations Laws & Regulations Resolutions Publications Forms Data Tools Community Banking Re Program International Seminars and Training...",
+        "extraction": "pervision & Examinations Laws & Regulations Resolutions Publications Forms Data Tools Community Banking Re Program International Seminars and Training"
+      },
+      {
+        "id": "doc-aml-topic-1-2-5",
+        "title": "AML Topic 1 Part 5",
+        "text": "PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC W",
+        "score": 0.78,
+        "summary": "PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC W...",
+        "extraction": "PRESS RELEASE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC W"
+      },
+      {
+        "id": "doc-aml-topic-1-2-6",
+        "title": "AML Topic 1 Part 6",
+        "text": "ithdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes All",
+        "score": 0.75,
+        "summary": "ithdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes All...",
+        "extraction": "ithdraws from the Network of Central Banks and Supervisors for Green. PRESS RELEASE / January 17, 2025 Millennium Bank, Des Plaines, Ill. Assumes All"
+      },
+      {
+        "id": "doc-aml-topic-1-2-7",
+        "title": "AML Topic 1 Part 7",
+        "text": "Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Analysis  Analysis The FDIC is proud to be a pre-eminent source of U.S",
+        "score": 0.72,
+        "summary": "Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Analysis  Analysis The FDIC is proud to be a pre-eminent source of U.S...",
+        "extraction": "Deposits of Pulaski Savings. PODCASTS / January 06, 2025 Small Business Lending Analysis  Analysis The FDIC is proud to be a pre-eminent source of U.S"
+      },
+      {
+        "id": "doc-aml-topic-1-2-8",
+        "title": "AML Topic 1 Part 8",
+        "text": ". banking industry re, including quarterly banking profiles, working papers, and state banking performance data. Browse our extensive re tools and rep",
+        "score": 0.69,
+        "summary": ". banking industry re, including quarterly banking profiles, working papers, and state banking performance data. Browse our extensive re tools and rep...",
+        "extraction": ". banking industry re, including quarterly banking profiles, working papers, and state banking performance data. Browse our extensive re tools and rep"
+      }
+    ],
+    "answer": "The FDIC provides a variety of resources for financial education and compliance, including financial education materials, data tools, documentation of laws and regulations, and information on important initiatives. The FDIC publishes various reports on the U. The FDIC announced its withdrawal from the Network of Central Banks and Supervisors for Green."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC regularly publishes updates on financial metrics such as return on assets for FDIC-insured institutions.",
+        "question": "What was the return on assets reported by FDIC-insured institutions in February 2025?",
+        "short_answers": [
+          "1.11 percent",
+          "February 2025 return on assets"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC provides regular reports on the financial performance of FDIC-insured institutions, including net income figures.",
+        "question": "How much net income did FDIC-insured institutions report in December 2024?",
+        "short_answers": [
+          "$65.4 billion",
+          "December 2024 net income"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC regularly updates financial performance metrics, such as net income, for FDIC-insured institutions.",
+        "question": "What was the net income reported by FDIC-insured institutions in September 2024?",
+        "short_answers": [
+          "$71.5 billion",
+          "September 2024 net income"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 1",
+        "url": "https://www.fdic.gov/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "In February 2025, FDIC-insured institutions reported a return on assets of 1. In December 2024, FDIC-insured institutions reported a net income of $65. FDIC-insured institutions reported a net income of $71."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "EVENT / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Net Inc.",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "EVENT / December 12, 2024 FDIC-Insured Institutions Reported Net Income of $65.4 Billion",
+            "wikipage": "AML Topic 1"
+          },
+          {
+            "content": "EVENT / September 05, 2024 FDIC-Insured Institutions Reported Net Income of $71.5 Billion",
+            "wikipage": "AML Topic 1"
+          }
+        ],
+        "long_answer": "In February 2025, FDIC-insured institutions reported a return on assets of 1.11 percent.\n\nIn December 2024, FDIC-insured institutions reported a net income of $65.4 billion.\n\nFDIC-insured institutions reported a net income of $71.5 billion in September 2024."
+      }
+    ],
+    "sample_id": "aml-topic-1-3",
+    "question": "What was the return on assets reported by FDIC-insured institutions in February 2025?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-1-3-1",
+        "title": "AML Topic 1 Part 1",
+        "text": "orts. More FDIC Analysis Center for Financial Re Consumer Re FDIC National Survey of Unbanked and Underbanked Households Quarterly Banking Profile FDI",
+        "score": 0.9,
+        "summary": "orts. More FDIC Analysis Center for Financial Re Consumer Re FDIC National Survey of Unbanked and Underbanked Households Quarterly Banking Profile FDI...",
+        "extraction": "orts. More FDIC Analysis Center for Financial Re Consumer Re FDIC National Survey of Unbanked and Underbanked Households Quarterly Banking Profile FDI"
+      },
+      {
+        "id": "doc-aml-topic-1-3-2",
+        "title": "AML Topic 1 Part 2",
+        "text": "C Academic Challenge FDIC Banking Issues in Focus Annual Risk Review EVENT / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of",
+        "score": 0.87,
+        "summary": "C Academic Challenge FDIC Banking Issues in Focus Annual Risk Review EVENT / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of...",
+        "extraction": "C Academic Challenge FDIC Banking Issues in Focus Annual Risk Review EVENT / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of"
+      },
+      {
+        "id": "doc-aml-topic-1-3-3",
+        "title": "AML Topic 1 Part 3",
+        "text": "1.11 Percent and Net Inc. EVENT / December 12, 2024 FDIC-Insured Institutions Reported Net Income of $65.4 Billion EVENT / September 05, 2024 FDIC-Ins",
+        "score": 0.84,
+        "summary": "1.11 Percent and Net Inc. EVENT / December 12, 2024 FDIC-Insured Institutions Reported Net Income of $65.4 Billion EVENT / September 05, 2024 FDIC-Ins...",
+        "extraction": "1.11 Percent and Net Inc. EVENT / December 12, 2024 FDIC-Insured Institutions Reported Net Income of $65.4 Billion EVENT / September 05, 2024 FDIC-Ins"
+      },
+      {
+        "id": "doc-aml-topic-1-3-4",
+        "title": "AML Topic 1 Part 4",
+        "text": "ured Institutions Reported Net Income of $71.5 Billion EVENT / May 29, 2024 Quarterly Banking Profile for First Quarter 2024 News  News The FDIC publi",
+        "score": 0.81,
+        "summary": "ured Institutions Reported Net Income of $71.5 Billion EVENT / May 29, 2024 Quarterly Banking Profile for First Quarter 2024 News  News The FDIC publi...",
+        "extraction": "ured Institutions Reported Net Income of $71.5 Billion EVENT / May 29, 2024 Quarterly Banking Profile for First Quarter 2024 News  News The FDIC publi"
+      },
+      {
+        "id": "doc-aml-topic-1-3-5",
+        "title": "AML Topic 1 Part 5",
+        "text": "shes regular updates on news and activities. Keep up with FDIC announcements, read speeches and testimony on the latest banking issues, learn about po",
+        "score": 0.78,
+        "summary": "shes regular updates on news and activities. Keep up with FDIC announcements, read speeches and testimony on the latest banking issues, learn about po...",
+        "extraction": "shes regular updates on news and activities. Keep up with FDIC announcements, read speeches and testimony on the latest banking issues, learn about po"
+      },
+      {
+        "id": "doc-aml-topic-1-3-6",
+        "title": "AML Topic 1 Part 6",
+        "text": "licy changes for banks, and get the details on upcoming conferences and events. Find More FDIC News  Financial Institution Letters Conferences & Event",
+        "score": 0.75,
+        "summary": "licy changes for banks, and get the details on upcoming conferences and events. Find More FDIC News  Financial Institution Letters Conferences & Event...",
+        "extraction": "licy changes for banks, and get the details on upcoming conferences and events. Find More FDIC News  Financial Institution Letters Conferences & Event"
+      },
+      {
+        "id": "doc-aml-topic-1-3-7",
+        "title": "AML Topic 1 Part 7",
+        "text": "s Board Matters Natural Disasters Media Campaigns Speeches, Statements & Testimonies Podcasts Videos Opinion Editorials Policy Fact Sheets PRESS RELEA",
+        "score": 0.72,
+        "summary": "s Board Matters Natural Disasters Media Campaigns Speeches, Statements & Testimonies Podcasts Videos Opinion Editorials Policy Fact Sheets PRESS RELEA...",
+        "extraction": "s Board Matters Natural Disasters Media Campaigns Speeches, Statements & Testimonies Podcasts Videos Opinion Editorials Policy Fact Sheets PRESS RELEA"
+      },
+      {
+        "id": "doc-aml-topic-1-3-8",
+        "title": "AML Topic 1 Part 8",
+        "text": "SE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC Withdraws fro",
+        "score": 0.69,
+        "summary": "SE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC Withdraws fro...",
+        "extraction": "SE / February 25, 2025 FDIC-Insured Institutions Reported Return on Assets of 1.11 Percent and Ne. PRESS RELEASE / January 21, 2025 FDIC Withdraws fro"
+      }
+    ],
+    "answer": "In February 2025, FDIC-insured institutions reported a return on assets of 1. In December 2024, FDIC-insured institutions reported a net income of $65. FDIC-insured institutions reported a net income of $71."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC offers various financial education programs tailored to different audiences, including small businesses.",
+        "question": "What resources does the FDIC provide for financial education aimed at small businesses?",
+        "short_answers": [
+          "Money Smart for Small Businesses",
+          "FDIC financial education for small businesses"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC has developed specific financial education programs to cater to the needs of different demographic groups, including older adults.",
+        "question": "How does the FDIC support financial education for older adults?",
+        "short_answers": [
+          "Money Smart for Older Adults",
+          "FDIC program for older adults"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC's Money Smart program is a comprehensive financial education initiative aimed at improving financial literacy across different segments of the population.",
+        "question": "What is the purpose of the FDIC's Money Smart program?",
+        "short_answers": [
+          "Enhance financial literacy",
+          "Informed financial decisions"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 2",
+        "url": "https://www.fdic.gov/espanol/educacion/glosario/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The FDIC provides a 'Money Smart for Small Businesses' program as part of its financial education resources. The FDIC supports financial education for older adults through its 'Money Smart for Older Adults' program, which is part of its broader initiative to provide financial literacy resources to diverse groups. The purpose of the FDIC's Money Smart program is to provide financial education to various groups, including adults, youth, and small business owners, to enhance their financial literacy and ability to make informed financial decisions."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Money Smart for Small Businesses",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Money Smart for Older Adults",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Money Smart Program",
+            "wikipage": "AML Topic 2"
+          }
+        ],
+        "long_answer": "The FDIC provides a 'Money Smart for Small Businesses' program as part of its financial education resources. This program is designed to help small business owners understand and manage their finances more effectively.\n\nThe FDIC supports financial education for older adults through its 'Money Smart for Older Adults' program, which is part of its broader initiative to provide financial literacy resources to diverse groups.\n\nThe purpose of the FDIC's Money Smart program is to provide financial education to various groups, including adults, youth, and small business owners, to enhance their financial literacy and ability to make informed financial decisions."
+      }
+    ],
+    "sample_id": "aml-topic-2-1",
+    "question": "What resources does the FDIC provide for financial education aimed at small businesses?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-2-1-1",
+        "title": "AML Topic 2 Part 1",
+        "text": "Glossary of Financial Terms | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov A .gov w",
+        "score": 0.9,
+        "summary": "Glossary of Financial Terms | FDIC.gov  Skip to main content  An official website of the United States government  Official websites use .gov A .gov w...",
+        "extraction": "Glossary of Financial Terms | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov A .gov w"
+      },
+      {
+        "id": "doc-aml-topic-2-1-2",
+        "title": "AML Topic 2 Part 2",
+        "text": "ebsite belongs to an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov websit",
+        "score": 0.87,
+        "summary": "ebsite belongs to an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov websit...",
+        "extraction": "ebsite belongs to an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov websit"
+      },
+      {
+        "id": "doc-aml-topic-2-1-3",
+        "title": "AML Topic 2 Part 3",
+        "text": "e. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education\nDeposit Insurance\nConsumer News\nA",
+        "score": 0.84,
+        "summary": "e. Share sensitive information only on official, secure websites.  Switch to English | Glossary  Financial Education Deposit Insurance Consumer News A...",
+        "extraction": "e. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education\nDeposit Insurance\nConsumer News\nA"
+      },
+      {
+        "id": "doc-aml-topic-2-1-4",
+        "title": "AML Topic 2 Part 4",
+        "text": "bout the FDIC\n\nBreadcrumb Home Español Espanol\n\nGlossary of Financial Terms\n\nShare This: Share on Facebook Share on X Share on X on LinkedIn Share thr",
+        "score": 0.81,
+        "summary": "bout the FDIC  Breadcrumb Home Español Espanol  Glossary of Financial Terms  Share This: Share on Facebook Share on X Share on X on LinkedIn Share thr...",
+        "extraction": "bout the FDIC\n\nBreadcrumb Home Español Espanol\n\nGlossary of Financial Terms\n\nShare This: Share on Facebook Share on X Share on X on LinkedIn Share thr"
+      },
+      {
+        "id": "doc-aml-topic-2-1-5",
+        "title": "AML Topic 2 Part 5",
+        "text": "ough email Print\n\nWelcome to FDIC Financial Education\n\nBank Account\nOverdraft Fees\nDeposit Accounts\nFind Your Bank\nMoney Smart Program\nCommunity\nTeach",
+        "score": 0.78,
+        "summary": "ough email Print  Welcome to FDIC Financial Education  Bank Account Overdraft Fees Deposit Accounts Find Your Bank Money Smart Program Community Teach...",
+        "extraction": "ough email Print\n\nWelcome to FDIC Financial Education\n\nBank Account\nOverdraft Fees\nDeposit Accounts\nFind Your Bank\nMoney Smart Program\nCommunity\nTeach"
+      },
+      {
+        "id": "doc-aml-topic-2-1-6",
+        "title": "AML Topic 2 Part 6",
+        "text": "Money Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart for Youth\nNews\nMoney Smart for Kids\nCred",
+        "score": 0.75,
+        "summary": "Money Smart Money Smart for Older Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Cred...",
+        "extraction": "Money Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart for Youth\nNews\nMoney Smart for Kids\nCred"
+      },
+      {
+        "id": "doc-aml-topic-2-1-7",
+        "title": "AML Topic 2 Part 7",
+        "text": "it and Loans\nDebts\nStudents\nMilitary\nMortgages\nCredit Reports\nLoans\nCards\nFinancial Protection and Privacy\nCybersecurity\nMortgages\nPrivacy\n\nGlossary o",
+        "score": 0.72,
+        "summary": "it and Loans Debts Students Military Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy  Glossary o...",
+        "extraction": "it and Loans\nDebts\nStudents\nMilitary\nMortgages\nCredit Reports\nLoans\nCards\nFinancial Protection and Privacy\nCybersecurity\nMortgages\nPrivacy\n\nGlossary o"
+      },
+      {
+        "id": "doc-aml-topic-2-1-8",
+        "title": "AML Topic 2 Part 8",
+        "text": "f Financial Terms\n\nContact Information\n\nWe offer a list of financial terms and definitions that can help you with certain banking, credit, or loan exp",
+        "score": 0.69,
+        "summary": "f Financial Terms  Contact Information  We offer a list of financial terms and definitions that can help you with certain banking, credit, or loan exp...",
+        "extraction": "f Financial Terms\n\nContact Information\n\nWe offer a list of financial terms and definitions that can help you with certain banking, credit, or loan exp"
+      }
+    ],
+    "answer": "The FDIC provides a 'Money Smart for Small Businesses' program as part of its financial education resources. The FDIC supports financial education for older adults through its 'Money Smart for Older Adults' program, which is part of its broader initiative to provide financial literacy resources to diverse groups. The purpose of the FDIC's Money Smart program is to provide financial education to various groups, including adults, youth, and small business owners, to enhance their financial literacy and ability to make informed financial decisions."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Attorneys are licensed professionals who can provide legal services, including those related to real estate transactions, which are common in enterprise operations.",
+        "question": "What roles can an attorney play in real estate transactions within an enterprise context?",
+        "short_answers": [
+          "Drafting contracts",
+          "Conducting title searches",
+          "Managing closing processes"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Creditors are integral to financial enterprises, offering credit facilities that enable businesses and individuals to access funds for various needs.",
+        "question": "How does a creditor function within a financial enterprise setting?",
+        "short_answers": [
+          "Provides loans",
+          "Issues credit cards",
+          "Facilitates credit lines"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Understanding the difference between financial and physical assets is crucial for asset management in businesses, impacting financial strategies and operations.",
+        "question": "What distinguishes a financial asset from a physical asset in an enterprise?",
+        "short_answers": [
+          "Monetary value vs. tangible",
+          "Savings vs. computers",
+          "Intangible vs. tangible"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 2",
+        "url": "https://www.fdic.gov/espanol/educacion/glosario/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "In real estate transactions, an attorney can perform several critical functions such as drafting the real estate contract, conducting a title search, and managing the closing process. In a financial enterprise setting, a creditor, or lender, is an entity that provides loans to debtors, which can include individuals, companies, or organizations. A financial asset in an enterprise is an asset with monetary value, such as funds in a savings account or investments, whereas a physical asset is tangible and can be seen and touched, like a computer."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Attorney: A licensed professional authorized to practice law. In some real estate transactions, an attorney may perform functions such as drafting the real estate contract, title search, and closing.",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Creditor (or lender): A person, company, or organization that lends money to the debtor. It also refers to the company that issues credit cards.",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Financial Asset: An asset with monetary value, such as the balance in a savings account, cash in your pocket, or money in an investment fund. Physical Asset: Something you own that has value and can be seen and touched. It has a physical presence. A computer is a physical asset.",
+            "wikipage": "AML Topic 2"
+          }
+        ],
+        "long_answer": "In real estate transactions, an attorney can perform several critical functions such as drafting the real estate contract, conducting a title search, and managing the closing process. These roles are essential to ensure the legal validity and smooth execution of the transaction.\n\nIn a financial enterprise setting, a creditor, or lender, is an entity that provides loans to debtors, which can include individuals, companies, or organizations. They also issue credit cards, facilitating transactions and credit lines for consumers and businesses.\n\nA financial asset in an enterprise is an asset with monetary value, such as funds in a savings account or investments, whereas a physical asset is tangible and can be seen and touched, like a computer. Both types of assets contribute to the company's value but in different ways."
+      }
+    ],
+    "sample_id": "aml-topic-2-2",
+    "question": "What roles can an attorney play in real estate transactions within an enterprise context?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-2-2-1",
+        "title": "AML Topic 2 Part 1",
+        "text": "ressions. Some words or terms, especially those of common legal use, may have different or additional definitions outside this context. All acronyms u",
+        "score": 0.9,
+        "summary": "ressions. Some words or terms, especially those of common legal use, may have different or additional definitions outside this context. All acronyms u...",
+        "extraction": "ressions. Some words or terms, especially those of common legal use, may have different or additional definitions outside this context. All acronyms u"
+      },
+      {
+        "id": "doc-aml-topic-2-2-2",
+        "title": "AML Topic 2 Part 2",
+        "text": "sed in this glossary represent the abbreviations of the corresponding terms in English.\n\nLetter Terms\n\nA\n\nAttorney: A licensed professional authorized",
+        "score": 0.87,
+        "summary": "sed in this glossary represent the abbreviations of the corresponding terms in English.  Letter Terms  A  Attorney: A licensed professional authorized...",
+        "extraction": "sed in this glossary represent the abbreviations of the corresponding terms in English.\n\nLetter Terms\n\nA\n\nAttorney: A licensed professional authorized"
+      },
+      {
+        "id": "doc-aml-topic-2-2-3",
+        "title": "AML Topic 2 Part 3",
+        "text": "to practice law. In some real estate transactions, an attorney may perform functions such as drafting the real estate contract, title search, and clo",
+        "score": 0.84,
+        "summary": "to practice law. In some real estate transactions, an attorney may perform functions such as drafting the real estate contract, title search, and clo...",
+        "extraction": "to practice law. In some real estate transactions, an attorney may perform functions such as drafting the real estate contract, title search, and clo"
+      },
+      {
+        "id": "doc-aml-topic-2-2-4",
+        "title": "AML Topic 2 Part 4",
+        "text": "sing.\n\nCreditor (or lender): A person, company, or organization that lends money to the debtor. It also refers to the company that issues credit cards",
+        "score": 0.81,
+        "summary": "sing.  Creditor (or lender): A person, company, or organization that lends money to the debtor. It also refers to the company that issues credit cards...",
+        "extraction": "sing.\n\nCreditor (or lender): A person, company, or organization that lends money to the debtor. It also refers to the company that issues credit cards"
+      },
+      {
+        "id": "doc-aml-topic-2-2-5",
+        "title": "AML Topic 2 Part 5",
+        "text": ".\n\nAsset: Something you own that has value.\n\nFinancial Asset: An asset with monetary value, such as the balance in a savings account, cash in your poc",
+        "score": 0.78,
+        "summary": ".  Asset: Something you own that has value.  Financial Asset: An asset with monetary value, such as the balance in a savings account, cash in your poc...",
+        "extraction": ".\n\nAsset: Something you own that has value.\n\nFinancial Asset: An asset with monetary value, such as the balance in a savings account, cash in your poc"
+      },
+      {
+        "id": "doc-aml-topic-2-2-6",
+        "title": "AML Topic 2 Part 6",
+        "text": "ket, or money in an investment fund.\n\nPhysical Asset: Something you own that has value and can be seen and touched. It has a physical presence. A comp",
+        "score": 0.75,
+        "summary": "ket, or money in an investment fund.  Physical Asset: Something you own that has value and can be seen and touched. It has a physical presence. A comp...",
+        "extraction": "ket, or money in an investment fund.\n\nPhysical Asset: Something you own that has value and can be seen and touched. It has a physical presence. A comp"
+      },
+      {
+        "id": "doc-aml-topic-2-2-7",
+        "title": "AML Topic 2 Part 7",
+        "text": "uter is a physical asset.\n\nProductive Asset: Something you own that has value and can help you produce more assets, often earning more money. Educatio",
+        "score": 0.72,
+        "summary": "uter is a physical asset.  Productive Asset: Something you own that has value and can help you produce more assets, often earning more money. Educatio...",
+        "extraction": "uter is a physical asset.\n\nProductive Asset: Something you own that has value and can help you produce more assets, often earning more money. Educatio"
+      },
+      {
+        "id": "doc-aml-topic-2-2-8",
+        "title": "AML Topic 2 Part 8",
+        "text": "n and training can be productive assets. A lawnmower can also be a productive asset.\n\nForbearance Agreement: If you meet certain requirements, a forbe",
+        "score": 0.69,
+        "summary": "n and training can be productive assets. A lawnmower can also be a productive asset.  Forbearance Agreement: If you meet certain requirements, a forbe...",
+        "extraction": "n and training can be productive assets. A lawnmower can also be a productive asset.\n\nForbearance Agreement: If you meet certain requirements, a forbe"
+      }
+    ],
+    "answer": "In real estate transactions, an attorney can perform several critical functions such as drafting the real estate contract, conducting a title search, and managing the closing process. In a financial enterprise setting, a creditor, or lender, is an entity that provides loans to debtors, which can include individuals, companies, or organizations. A financial asset in an enterprise is an asset with monetary value, such as funds in a savings account or investments, whereas a physical asset is tangible and can be seen and touched, like a computer."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Understanding adjudication is essential for enterprises to manage their insurance claims effectively and ensure they receive appropriate coverage.",
+        "question": "What is the role of adjudication in the context of insurance claims for enterprises?",
+        "short_answers": [
+          "Process of reviewing claims",
+          "Determines coverage and payment amounts"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Enterprises involved in housing must be aware of reasonable accommodations to ensure compliance with disability rights and avoid potential legal issues.",
+        "question": "How can a reasonable accommodation impact enterprise housing policies?",
+        "short_answers": [
+          "Change in housing policies",
+          "Ensures non-discrimination"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Enterprises rely on credit reporting agencies to obtain accurate credit information, which is vital for evaluating financial risks and opportunities.",
+        "question": "What is the significance of a credit reporting agency for enterprise financial operations?",
+        "short_answers": [
+          "Produce credit reports",
+          "Assess creditworthiness"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 2",
+        "url": "https://www.fdic.gov/espanol/educacion/glosario/"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "In the context of insurance claims, adjudication is the process where the insurance company reviews claims to determine if a loss is covered by the insurance policy. A reasonable accommodation in housing involves changes in rules, policies, practices, or services to provide individuals with disabilities the same opportunity to use and enjoy a housing unit or common space. Credit reporting agencies produce credit reports that are crucial for enterprises to assess the creditworthiness of potential clients or partners."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Adjudication: When used in the context of insurance claims, adjudication is the process of reviewing claims. The insurance company determines if a loss is covered by your insurance policy. If the loss is covered, the insurance company also decides the amount it will pay and the amount you have to pay.",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Reasonable Accommodation: In housing, a reasonable accommodation is a change in rules, policies, practices, or services to allow a person with a disability the same opportunity to use and enjoy a housing unit or common space.",
+            "wikipage": "AML Topic 2"
+          },
+          {
+            "content": "Credit Reporting Agency: Companies that produce credit reports. They may be called credit reporting agencies, credit bureaus, or credit reporting companies.",
+            "wikipage": "AML Topic 2"
+          }
+        ],
+        "long_answer": "In the context of insurance claims, adjudication is the process where the insurance company reviews claims to determine if a loss is covered by the insurance policy. If the loss is covered, the company also decides the amount it will pay and the amount the insured must pay.\n\nA reasonable accommodation in housing involves changes in rules, policies, practices, or services to provide individuals with disabilities the same opportunity to use and enjoy a housing unit or common space. Enterprises must ensure their housing policies comply with these requirements to avoid discrimination.\n\nCredit reporting agencies produce credit reports that are crucial for enterprises to assess the creditworthiness of potential clients or partners. These reports help in making informed financial decisions and managing risk effectively."
+      }
+    ],
+    "sample_id": "aml-topic-2-3",
+    "question": "What is the role of adjudication in the context of insurance claims for enterprises?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-2-3-1",
+        "title": "AML Topic 2 Part 1",
+        "text": "arance agreement allows you to temporarily stop making payments or temporarily reduce your monthly payment amount for a specified period. For all type",
+        "score": 0.9,
+        "summary": "arance agreement allows you to temporarily stop making payments or temporarily reduce your monthly payment amount for a specified period. For all type...",
+        "extraction": "arance agreement allows you to temporarily stop making payments or temporarily reduce your monthly payment amount for a specified period. For all type"
+      },
+      {
+        "id": "doc-aml-topic-2-3-2",
+        "title": "AML Topic 2 Part 2",
+        "text": "s of federal student loans, you are responsible for paying the interest that accrues during a forbearance period. More information at StudentAid.gov.",
+        "score": 0.87,
+        "summary": "s of federal student loans, you are responsible for paying the interest that accrues during a forbearance period. More information at StudentAid.gov....",
+        "extraction": "s of federal student loans, you are responsible for paying the interest that accrues during a forbearance period. More information at StudentAid.gov."
+      },
+      {
+        "id": "doc-aml-topic-2-3-3",
+        "title": "AML Topic 2 Part 3",
+        "text": "Reasonable Accommodation: In housing, a reasonable accommodation is a change in rules, policies, practices, or services to allow a person with a disa",
+        "score": 0.84,
+        "summary": "Reasonable Accommodation: In housing, a reasonable accommodation is a change in rules, policies, practices, or services to allow a person with a disa...",
+        "extraction": "Reasonable Accommodation: In housing, a reasonable accommodation is a change in rules, policies, practices, or services to allow a person with a disa"
+      },
+      {
+        "id": "doc-aml-topic-2-3-4",
+        "title": "AML Topic 2 Part 4",
+        "text": "bility the same opportunity to use and enjoy a housing unit or common space.\n\nAdjudication: When used in the context of insurance claims, adjudication",
+        "score": 0.81,
+        "summary": "bility the same opportunity to use and enjoy a housing unit or common space.  Adjudication: When used in the context of insurance claims, adjudication...",
+        "extraction": "bility the same opportunity to use and enjoy a housing unit or common space.\n\nAdjudication: When used in the context of insurance claims, adjudication"
+      },
+      {
+        "id": "doc-aml-topic-2-3-5",
+        "title": "AML Topic 2 Part 5",
+        "text": "is the process of reviewing claims. The insurance company determines if a loss is covered by your insurance policy. If the loss is covered, the insur",
+        "score": 0.78,
+        "summary": "is the process of reviewing claims. The insurance company determines if a loss is covered by your insurance policy. If the loss is covered, the insur...",
+        "extraction": "is the process of reviewing claims. The insurance company determines if a loss is covered by your insurance policy. If the loss is covered, the insur"
+      },
+      {
+        "id": "doc-aml-topic-2-3-6",
+        "title": "AML Topic 2 Part 6",
+        "text": "ance company also decides the amount it will pay and the amount you have to pay.\n\nLate Payment Warning: Explanation of what will happen if you do not",
+        "score": 0.75,
+        "summary": "ance company also decides the amount it will pay and the amount you have to pay.  Late Payment Warning: Explanation of what will happen if you do not...",
+        "extraction": "ance company also decides the amount it will pay and the amount you have to pay.\n\nLate Payment Warning: Explanation of what will happen if you do not"
+      },
+      {
+        "id": "doc-aml-topic-2-3-7",
+        "title": "AML Topic 2 Part 7",
+        "text": "make at least the required minimum payment on time.\n\nCredit Reporting Agency: Companies that produce credit reports. They may be called credit reporti",
+        "score": 0.72,
+        "summary": "make at least the required minimum payment on time.  Credit Reporting Agency: Companies that produce credit reports. They may be called credit reporti...",
+        "extraction": "make at least the required minimum payment on time.\n\nCredit Reporting Agency: Companies that produce credit reports. They may be called credit reporti"
+      },
+      {
+        "id": "doc-aml-topic-2-3-8",
+        "title": "AML Topic 2 Part 8",
+        "text": "ng agencies, credit bureaus, or credit reporting companies.\n\nAgent: A person authorized to act on behalf of another person or entity, the principal.",
+        "score": 0.69,
+        "summary": "ng agencies, credit bureaus, or credit reporting companies.  Agent: A person authorized to act on behalf of another person or entity, the principal....",
+        "extraction": "ng agencies, credit bureaus, or credit reporting companies.\n\nAgent: A person authorized to act on behalf of another person or entity, the principal."
+      }
+    ],
+    "answer": "In the context of insurance claims, adjudication is the process where the insurance company reviews claims to determine if a loss is covered by the insurance policy. A reasonable accommodation in housing involves changes in rules, policies, practices, or services to provide individuals with disabilities the same opportunity to use and enjoy a housing unit or common space. Credit reporting agencies produce credit reports that are crucial for enterprises to assess the creditworthiness of potential clients or partners."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC provides a range of educational programs under its Money Smart initiative, targeting various groups including small businesses, to enhance financial literacy and awareness.",
+        "question": "How does the FDIC's Money Smart Program benefit small businesses in terms of AML education?",
+        "short_answers": [
+          "Financial management education",
+          "Regulatory compliance understanding",
+          "AML-related insights for small businesses"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Financial protection encompasses various strategies, including cybersecurity, to secure financial data and prevent fraud.",
+        "question": "What role does cybersecurity play in financial protection according to the FDIC?",
+        "short_answers": [
+          "Protects sensitive information",
+          "Prevents unauthorized access",
+          "Essential for consumer trust"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Understanding financial terminology is essential for effective financial education and compliance with regulations.",
+        "question": "Why is it important for the FDIC to provide a glossary of financial terms?",
+        "short_answers": [
+          "Enhances financial literacy",
+          "Informs decision-making",
+          "Ensures regulatory compliance"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 3",
+        "url": "https://www.fdic.gov/espanol/educacion-financiera"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The FDIC's Money Smart Program offers financial education resources specifically designed for small businesses, which can include aspects of Anti-Money Laundering (AML) education. According to the FDIC, cybersecurity is a critical component of financial protection. The FDIC provides a glossary of financial terms to help consumers and businesses better understand complex financial concepts and terminology."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Money Smart for Small Businesses",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "Financial Protection and Privacy Cybersecurity",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "Glossary of Financial Terms",
+            "wikipage": "AML Topic 3"
+          }
+        ],
+        "long_answer": "The FDIC's Money Smart Program offers financial education resources specifically designed for small businesses, which can include aspects of Anti-Money Laundering (AML) education. This program helps small business owners understand financial management, lending, and regulatory compliance, which are crucial for preventing and identifying money laundering activities.\n\nAccording to the FDIC, cybersecurity is a critical component of financial protection. It involves safeguarding sensitive financial information from unauthorized access and cyber threats, which is essential for maintaining consumer trust and preventing financial crimes such as money laundering.\n\nThe FDIC provides a glossary of financial terms to help consumers and businesses better understand complex financial concepts and terminology. This resource is crucial for enhancing financial literacy, enabling informed decision-making, and ensuring compliance with financial regulations, including those related to Anti-Money Laundering (AML)."
+      }
+    ],
+    "sample_id": "aml-topic-3-1",
+    "question": "How does the FDIC's Money Smart Program benefit small businesses in terms of AML education?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-3-1-1",
+        "title": "AML Topic 3 Part 1",
+        "text": "Financial Education | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov\nA .gov website b",
+        "score": 0.9,
+        "summary": "Financial Education | FDIC.gov  Skip to main content  An official website of the United States government  Official websites use .gov A .gov website b...",
+        "extraction": "Financial Education | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov\nA .gov website b"
+      },
+      {
+        "id": "doc-aml-topic-3-1-2",
+        "title": "AML Topic 3 Part 2",
+        "text": "elongs to an official organization of the United States Government.\n\nSecure .gov websites use HTTPS\nA https:// means you’ve safely connected to a .gov",
+        "score": 0.87,
+        "summary": "elongs to an official organization of the United States Government.  Secure .gov websites use HTTPS A https:// means you’ve safely connected to a .gov...",
+        "extraction": "elongs to an official organization of the United States Government.\n\nSecure .gov websites use HTTPS\nA https:// means you’ve safely connected to a .gov"
+      },
+      {
+        "id": "doc-aml-topic-3-1-3",
+        "title": "AML Topic 3 Part 3",
+        "text": "website. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education\nDeposit Insurance\nConsumer",
+        "score": 0.84,
+        "summary": "website. Share sensitive information only on official, secure websites.  Switch to English | Glossary  Financial Education Deposit Insurance Consumer...",
+        "extraction": "website. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education\nDeposit Insurance\nConsumer"
+      },
+      {
+        "id": "doc-aml-topic-3-1-4",
+        "title": "AML Topic 3 Part 4",
+        "text": "News\nAbout the FDIC\n\nBreadcrumb\nHome\nEspañol\nSpanish\nFinancial Education\n\nShare This:\nShare on Facebook\nShare on X\nShare on X\non LinkedIn\nShare throu",
+        "score": 0.81,
+        "summary": "News About the FDIC  Breadcrumb Home Español Spanish Financial Education  Share This: Share on Facebook Share on X Share on X on LinkedIn Share throu...",
+        "extraction": "News\nAbout the FDIC\n\nBreadcrumb\nHome\nEspañol\nSpanish\nFinancial Education\n\nShare This:\nShare on Facebook\nShare on X\nShare on X\non LinkedIn\nShare throu"
+      },
+      {
+        "id": "doc-aml-topic-3-1-5",
+        "title": "AML Topic 3 Part 5",
+        "text": "gh email\nPrint\n\nWelcome to FDIC Financial Education\n\nBank Account\nOverdraft Fees\nDeposit Accounts\nFind Your Bank\nMoney Smart Program\nCommunity\nTeach M",
+        "score": 0.78,
+        "summary": "gh email Print  Welcome to FDIC Financial Education  Bank Account Overdraft Fees Deposit Accounts Find Your Bank Money Smart Program Community Teach M...",
+        "extraction": "gh email\nPrint\n\nWelcome to FDIC Financial Education\n\nBank Account\nOverdraft Fees\nDeposit Accounts\nFind Your Bank\nMoney Smart Program\nCommunity\nTeach M"
+      },
+      {
+        "id": "doc-aml-topic-3-1-6",
+        "title": "AML Topic 3 Part 6",
+        "text": "oney Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart for Youth\nNews\nMoney Smart for Kids\n\nCredi",
+        "score": 0.75,
+        "summary": "oney Smart Money Smart for Older Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids  Credi...",
+        "extraction": "oney Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart for Youth\nNews\nMoney Smart for Kids\n\nCredi"
+      },
+      {
+        "id": "doc-aml-topic-3-1-7",
+        "title": "AML Topic 3 Part 7",
+        "text": "t and Loans\nDebts\nStudents\nArmed Forces\nMortgages\nCredit Reports\nLoans\nCards\n\nFinancial Protection and Privacy\nCybersecurity\nMortgages\nPrivacy\n\nGlossa",
+        "score": 0.72,
+        "summary": "t and Loans Debts Students Armed Forces Mortgages Credit Reports Loans Cards  Financial Protection and Privacy Cybersecurity Mortgages Privacy  Glossa...",
+        "extraction": "t and Loans\nDebts\nStudents\nArmed Forces\nMortgages\nCredit Reports\nLoans\nCards\n\nFinancial Protection and Privacy\nCybersecurity\nMortgages\nPrivacy\n\nGlossa"
+      },
+      {
+        "id": "doc-aml-topic-3-1-8",
+        "title": "AML Topic 3 Part 8",
+        "text": "ry of Financial Terms\nContact Information\n\nThe FDIC recognizes the importance of providing consumers with useful information to help them make informe",
+        "score": 0.69,
+        "summary": "ry of Financial Terms Contact Information  The FDIC recognizes the importance of providing consumers with useful information to help them make informe...",
+        "extraction": "ry of Financial Terms\nContact Information\n\nThe FDIC recognizes the importance of providing consumers with useful information to help them make informe"
+      }
+    ],
+    "answer": "The FDIC's Money Smart Program offers financial education resources specifically designed for small businesses, which can include aspects of Anti-Money Laundering (AML) education. According to the FDIC, cybersecurity is a critical component of financial protection. The FDIC provides a glossary of financial terms to help consumers and businesses better understand complex financial concepts and terminology."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC's Money Smart Program offers financial education resources aimed at improving financial skills and fostering positive banking relationships.",
+        "question": "How can enterprises leverage the FDIC's Money Smart Program to enhance employee financial literacy?",
+        "short_answers": [
+          "Incorporate Money Smart resources into training.",
+          "Enhance financial literacy through FDIC programs.",
+          "Support employee financial education with Money Smart."
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "There are 5.9 million unbanked households in the U.S., and resources are available to assist in opening bank accounts.",
+        "question": "What steps should a business take to assist employees in opening a bank account if they are unbanked?",
+        "short_answers": [
+          "Provide resources on opening bank accounts.",
+          "Guide employees to banking information.",
+          "Partner with banks for educational workshops."
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Consumer protection in finance and privacy is essential for making informed financial decisions and protecting against fraud.",
+        "question": "Why is it important for businesses to educate their employees about consumer protection in finance and privacy?",
+        "short_answers": [
+          "Prevents financial fraud and scams.",
+          "Informs employees on privacy regulations.",
+          "Protects personal and company financial assets."
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 3",
+        "url": "https://www.fdic.gov/espanol/educacion-financiera"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "Enterprises can leverage the FDIC's Money Smart Program by incorporating its resources into their employee training programs. Businesses can assist unbanked employees in opening a bank account by providing them with information and resources on how to find a suitable bank and manage their accounts. Educating employees about consumer protection in finance and privacy is crucial because it helps them make informed decisions about their money and safeguards them against financial fraud and scams."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "The FDIC's Money Smart financial education program can help people of all ages improve their financial skills and create positive banking relationships.",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "If you are among the 5.9 million households in the United States that do not yet have a bank account and are looking to open one, there are resources available to assist you in this process.",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "d decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on specific banking topics, as well as links to other resources for more information.",
+            "wikipage": "AML Topic 3"
+          }
+        ],
+        "long_answer": "Enterprises can leverage the FDIC's Money Smart Program by incorporating its resources into their employee training programs. The Money Smart Program offers comprehensive financial education resources for people of all ages, which can help employees improve their financial skills and foster positive banking relationships. By utilizing these resources, businesses can support their employees in becoming more financially literate, which can lead to a more financially stable and informed workforce.\n\nBusinesses can assist unbanked employees in opening a bank account by providing them with information and resources on how to find a suitable bank and manage their accounts. This includes guiding them to resources that explain the process of opening a bank account, understanding deposit accounts, and managing overdraft fees. Additionally, businesses can partner with financial institutions to offer seminars or workshops that educate employees about the benefits and processes of banking.\n\nEducating employees about consumer protection in finance and privacy is crucial because it helps them make informed decisions about their money and safeguards them against financial fraud and scams. By understanding consumer protection laws and privacy regulations, employees can better protect their personal information and financial assets. This knowledge not only benefits the individual employees but also reduces the risk of financial misconduct within the company."
+      }
+    ],
+    "sample_id": "aml-topic-3-2",
+    "question": "How can enterprises leverage the FDIC's Money Smart Program to enhance employee financial literacy?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-3-2-1",
+        "title": "AML Topic 3 Part 1",
+        "text": "d decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on specific banking topics,",
+        "score": 0.9,
+        "summary": "d decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on specific banking topics,...",
+        "extraction": "d decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on specific banking topics,"
+      },
+      {
+        "id": "doc-aml-topic-3-2-2",
+        "title": "AML Topic 3 Part 2",
+        "text": "as well as links to other resources for more information.\n\nEducation\nOpen a Bank Account (#GetBanked)\nMoney Smart Program\nCredit and Loans\nConsumer Pr",
+        "score": 0.87,
+        "summary": "as well as links to other resources for more information.  Education Open a Bank Account (#GetBanked) Money Smart Program Credit and Loans Consumer Pr...",
+        "extraction": "as well as links to other resources for more information.\n\nEducation\nOpen a Bank Account (#GetBanked)\nMoney Smart Program\nCredit and Loans\nConsumer Pr"
+      },
+      {
+        "id": "doc-aml-topic-3-2-3",
+        "title": "AML Topic 3 Part 3",
+        "text": "otection: Finance and Privacy\nGlossary of Financial Terms\n\nOpen a Bank Account\nIf you are among the 5.9 million households in the United States that d",
+        "score": 0.84,
+        "summary": "otection: Finance and Privacy Glossary of Financial Terms  Open a Bank Account If you are among the 5.9 million households in the United States that d...",
+        "extraction": "otection: Finance and Privacy\nGlossary of Financial Terms\n\nOpen a Bank Account\nIf you are among the 5.9 million households in the United States that d"
+      },
+      {
+        "id": "doc-aml-topic-3-2-4",
+        "title": "AML Topic 3 Part 4",
+        "text": "o not yet have a bank account and are looking to open one, there are resources available to assist you in this process. Learn more\n\nDeposit Accounts\nF",
+        "score": 0.81,
+        "summary": "o not yet have a bank account and are looking to open one, there are resources available to assist you in this process. Learn more  Deposit Accounts F...",
+        "extraction": "o not yet have a bank account and are looking to open one, there are resources available to assist you in this process. Learn more\n\nDeposit Accounts\nF"
+      },
+      {
+        "id": "doc-aml-topic-3-2-5",
+        "title": "AML Topic 3 Part 5",
+        "text": "ind Your Bank\nYour guide to preventing and managing overdraft fees\n\nBack to top\n\nMoney Smart Program\nThe FDIC's Money Smart financial education progra",
+        "score": 0.78,
+        "summary": "ind Your Bank Your guide to preventing and managing overdraft fees  Back to top  Money Smart Program The FDIC's Money Smart financial education progra...",
+        "extraction": "ind Your Bank\nYour guide to preventing and managing overdraft fees\n\nBack to top\n\nMoney Smart Program\nThe FDIC's Money Smart financial education progra"
+      },
+      {
+        "id": "doc-aml-topic-3-2-6",
+        "title": "AML Topic 3 Part 6",
+        "text": "m can help people of all ages improve their financial skills and create positive banking relationships. Learn more\n\nHow Money Smart Are You?\nFind Mone",
+        "score": 0.75,
+        "summary": "m can help people of all ages improve their financial skills and create positive banking relationships. Learn more  How Money Smart Are You? Find Mone...",
+        "extraction": "m can help people of all ages improve their financial skills and create positive banking relationships. Learn more\n\nHow Money Smart Are You?\nFind Mone"
+      },
+      {
+        "id": "doc-aml-topic-3-2-7",
+        "title": "AML Topic 3 Part 7",
+        "text": "y Smart programs in your community\nTeach Money Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart",
+        "score": 0.72,
+        "summary": "y Smart programs in your community Teach Money Smart Money Smart for Older Adults Money Smart for Adults Money Smart for Small Businesses Money Smart...",
+        "extraction": "y Smart programs in your community\nTeach Money Smart\nMoney Smart for Older Adults\nMoney Smart for Adults\nMoney Smart for Small Businesses\nMoney Smart"
+      },
+      {
+        "id": "doc-aml-topic-3-2-8",
+        "title": "AML Topic 3 Part 8",
+        "text": "for Youth\nNews\nMoney Smart for Kids\n\nBack to top\n\nCredit and Loans\nThe FDIC recognizes the importance of providing consumers with useful information t",
+        "score": 0.69,
+        "summary": "for Youth News Money Smart for Kids  Back to top  Credit and Loans The FDIC recognizes the importance of providing consumers with useful information t...",
+        "extraction": "for Youth\nNews\nMoney Smart for Kids\n\nBack to top\n\nCredit and Loans\nThe FDIC recognizes the importance of providing consumers with useful information t"
+      }
+    ],
+    "answer": "Enterprises can leverage the FDIC's Money Smart Program by incorporating its resources into their employee training programs. Businesses can assist unbanked employees in opening a bank account by providing them with information and resources on how to find a suitable bank and manage their accounts. Educating employees about consumer protection in finance and privacy is crucial because it helps them make informed decisions about their money and safeguards them against financial fraud and scams."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The benefits of technological services in banking are clear, but they also pose certain risks. Understanding these risks is crucial for protecting one's financial information.",
+        "question": "What are some common risks associated with the use of technological services in banking?",
+        "short_answers": [
+          "Cybersecurity threats",
+          "Financial privacy issues"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Armed forces members require tailored financial protections due to their unique circumstances, which can make them vulnerable to financial issues.",
+        "question": "Why is it important for armed forces members to have specific protections regarding credit and loans?",
+        "short_answers": [
+          "Unique financial challenges",
+          "Prevent financial exploitation"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "A glossary of financial terms is available to help consumers understand complex expressions related to banking and credit.",
+        "question": "How can consumers access definitions for complex financial terms?",
+        "short_answers": [
+          "Practical glossary",
+          "Aid understanding of financial terms"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 3",
+        "url": "https://www.fdic.gov/espanol/educacion-financiera"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "While technological services in banking offer speed and convenience, they also come with risks such as cybersecurity threats and financial privacy issues. Armed forces members face unique financial challenges due to frequent relocations and deployments, making it crucial for them to have specific protections in areas like credit and loans to prevent financial exploitation and ensure stability. Consumers can access definitions for complex financial terms through a practical glossary provided by the FDIC, which is designed to aid understanding in banking, credit, or loan expressions."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "The benefits of technological services, such as speed and convenience for banking customers, are clear, but there are risks. These resources will help you recognize common risks and protect your finances.",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "Protection for Armed Forces Members: Credit and Loans",
+            "wikipage": "AML Topic 3"
+          },
+          {
+            "content": "If you do not understand certain financial terms or are looking for definitions that can help with certain banking, credit, or loan expressions, we offer this practical glossary as an aid.",
+            "wikipage": "AML Topic 3"
+          }
+        ],
+        "long_answer": "While technological services in banking offer speed and convenience, they also come with risks such as cybersecurity threats and financial privacy issues. Consumers should be aware of these risks to better protect their finances.\n\nArmed forces members face unique financial challenges due to frequent relocations and deployments, making it crucial for them to have specific protections in areas like credit and loans to prevent financial exploitation and ensure stability.\n\nConsumers can access definitions for complex financial terms through a practical glossary provided by the FDIC, which is designed to aid understanding in banking, credit, or loan expressions."
+      }
+    ],
+    "sample_id": "aml-topic-3-3",
+    "question": "What are some common risks associated with the use of technological services in banking?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-3-3-1",
+        "title": "AML Topic 3 Part 1",
+        "text": "o help them make informed decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on s",
+        "score": 0.9,
+        "summary": "o help them make informed decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on s...",
+        "extraction": "o help them make informed decisions about their money and to protect themselves against financial fraud and scams. Here you will find information on s"
+      },
+      {
+        "id": "doc-aml-topic-3-3-2",
+        "title": "AML Topic 3 Part 2",
+        "text": "pecific banking topics, as well as links to other resources for more information. Learn more\n\nCredit Cards\nCredit Reports\nDebt Collection\nLoans\nMortga",
+        "score": 0.87,
+        "summary": "pecific banking topics, as well as links to other resources for more information. Learn more  Credit Cards Credit Reports Debt Collection Loans Mortga...",
+        "extraction": "pecific banking topics, as well as links to other resources for more information. Learn more\n\nCredit Cards\nCredit Reports\nDebt Collection\nLoans\nMortga"
+      },
+      {
+        "id": "doc-aml-topic-3-3-3",
+        "title": "AML Topic 3 Part 3",
+        "text": "ges\nProtection for Armed Forces Members: Credit and Loans\nStudent Loans\n\nBack to top\n\nConsumer Protection: Finance and Privacy\nThe benefits of technol",
+        "score": 0.84,
+        "summary": "ges Protection for Armed Forces Members: Credit and Loans Student Loans  Back to top  Consumer Protection: Finance and Privacy The benefits of technol...",
+        "extraction": "ges\nProtection for Armed Forces Members: Credit and Loans\nStudent Loans\n\nBack to top\n\nConsumer Protection: Finance and Privacy\nThe benefits of technol"
+      },
+      {
+        "id": "doc-aml-topic-3-3-4",
+        "title": "AML Topic 3 Part 4",
+        "text": "ogical services, such as speed and convenience for banking customers, are clear, but there are risks. These resources will help you recognize common r",
+        "score": 0.81,
+        "summary": "ogical services, such as speed and convenience for banking customers, are clear, but there are risks. These resources will help you recognize common r...",
+        "extraction": "ogical services, such as speed and convenience for banking customers, are clear, but there are risks. These resources will help you recognize common r"
+      },
+      {
+        "id": "doc-aml-topic-3-3-5",
+        "title": "AML Topic 3 Part 5",
+        "text": "isks and protect your finances. Learn more\n\nCybersecurity\nFinancial Privacy\nMortgage Scams\n\nBack to top\n\nGlossary of Financial Terms\nIf you do not und",
+        "score": 0.78,
+        "summary": "isks and protect your finances. Learn more  Cybersecurity Financial Privacy Mortgage Scams  Back to top  Glossary of Financial Terms If you do not und...",
+        "extraction": "isks and protect your finances. Learn more\n\nCybersecurity\nFinancial Privacy\nMortgage Scams\n\nBack to top\n\nGlossary of Financial Terms\nIf you do not und"
+      },
+      {
+        "id": "doc-aml-topic-3-3-6",
+        "title": "AML Topic 3 Part 6",
+        "text": "erstand certain financial terms or are looking for definitions that can help with certain banking, credit, or loan expressions, we offer this practica",
+        "score": 0.75,
+        "summary": "erstand certain financial terms or are looking for definitions that can help with certain banking, credit, or loan expressions, we offer this practica...",
+        "extraction": "erstand certain financial terms or are looking for definitions that can help with certain banking, credit, or loan expressions, we offer this practica"
+      },
+      {
+        "id": "doc-aml-topic-3-3-7",
+        "title": "AML Topic 3 Part 7",
+        "text": "l glossary as an aid. Learn more\n\nBack to top\n\nReturn to FDIC in Spanish\n\nLast Updated: August 18, 2023\n\nContact the FDIC\nContact Us\n\nStay Informed (E",
+        "score": 0.72,
+        "summary": "l glossary as an aid. Learn more  Back to top  Return to FDIC in Spanish  Last Updated: August 18, 2023  Contact the FDIC Contact Us  Stay Informed (E...",
+        "extraction": "l glossary as an aid. Learn more\n\nBack to top\n\nReturn to FDIC in Spanish\n\nLast Updated: August 18, 2023\n\nContact the FDIC\nContact Us\n\nStay Informed (E"
+      },
+      {
+        "id": "doc-aml-topic-3-3-8",
+        "title": "AML Topic 3 Part 8",
+        "text": "nglish)\nEnter your email address\nSubscribe\n\non Facebook\non X\nShare on X\non Instagram\non LinkedIn\non Flickr\non YouTube\n\nHow Can We Help You? (English)",
+        "score": 0.69,
+        "summary": "nglish) Enter your email address Subscribe  on Facebook on X Share on X on Instagram on LinkedIn on Flickr on YouTube  How Can We Help You? (English)...",
+        "extraction": "nglish)\nEnter your email address\nSubscribe\n\non Facebook\non X\nShare on X\non Instagram\non LinkedIn\non Flickr\non YouTube\n\nHow Can We Help You? (English)"
+      }
+    ],
+    "answer": "While technological services in banking offer speed and convenience, they also come with risks such as cybersecurity threats and financial privacy issues. Armed forces members face unique financial challenges due to frequent relocations and deployments, making it crucial for them to have specific protections in areas like credit and loans to prevent financial exploitation and ensure stability. Consumers can access definitions for complex financial terms through a practical glossary provided by the FDIC, which is designed to aid understanding in banking, credit, or loan expressions."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Understanding the limits of FDIC deposit insurance is crucial for managing enterprise funds and ensuring that corporate accounts are adequately protected in the event of a bank failure.",
+        "question": "What is the maximum deposit insurance coverage provided by the FDIC for individual bank accounts?",
+        "short_answers": [
+          "$250,000 per depositor",
+          "FDIC-insured",
+          "per bank"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Enterprises can use EDIE to assess their deposit insurance coverage, which is essential for financial planning and risk management.",
+        "question": "How does the FDIC's Electronic Deposit Insurance Estimator (EDIE) assist enterprises?",
+        "short_answers": [
+          "Calculates insurance coverage",
+          "Online tool",
+          "EDIE"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "For enterprises, understanding the FDIC's procedures during a bank failure is important for ensuring business continuity and minimizing financial disruption.",
+        "question": "What steps does the FDIC take in the event of a bank failure to protect depositors?",
+        "short_answers": [
+          "Transfer deposits",
+          "Direct payments",
+          "Protect depositors"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 4",
+        "url": "https://www.fdic.gov/espanol/deposito"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The FDIC provides deposit insurance coverage up to at least $250,000 per depositor, per FDIC-insured bank, for each account ownership category. The FDIC's Electronic Deposit Insurance Estimator, or EDIE, is an online tool that helps enterprises and individuals calculate their deposit insurance coverage across different account types and banks, ensuring that they understand their coverage limits. In the event of a bank failure, the FDIC takes several steps to protect depositors, including transferring insured deposits to another FDIC-insured bank or paying depositors directly up to the insured limit, ensuring that customers have access to their insured funds quickly."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "The FDIC provides deposit insurance to protect your money in the event of a bank failure. Your deposits are automatically insured up to at least $250,000 at each FDIC-insured bank.",
+            "wikipage": "AML Topic 4"
+          },
+          {
+            "content": "EDIE - the FDIC's Electronic Deposit Insurance Estimator. The Electronic Deposit Insurance Estimator – known as EDIE – is an easy-to-use online tool for calculating your deposit insurance.",
+            "wikipage": "AML Topic 4"
+          },
+          {
+            "content": "Our FAQ page offers details about deposit insurance coverage, the actions the FDIC takes in the event of a bank failure, how to find FDIC-insured banks, and more information.",
+            "wikipage": "AML Topic 4"
+          }
+        ],
+        "long_answer": "The FDIC provides deposit insurance coverage up to at least $250,000 per depositor, per FDIC-insured bank, for each account ownership category.\n\nThe FDIC's Electronic Deposit Insurance Estimator, or EDIE, is an online tool that helps enterprises and individuals calculate their deposit insurance coverage across different account types and banks, ensuring that they understand their coverage limits.\n\nIn the event of a bank failure, the FDIC takes several steps to protect depositors, including transferring insured deposits to another FDIC-insured bank or paying depositors directly up to the insured limit, ensuring that customers have access to their insured funds quickly."
+      }
+    ],
+    "sample_id": "aml-topic-4-1",
+    "question": "What is the maximum deposit insurance coverage provided by the FDIC for individual bank accounts?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-4-1-1",
+        "title": "AML Topic 4 Part 1",
+        "text": "FDIC: Deposit Insurance | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov A .gov websi",
+        "score": 0.9,
+        "summary": "FDIC: Deposit Insurance | FDIC.gov  Skip to main content  An official website of the United States government  Official websites use .gov A .gov websi...",
+        "extraction": "FDIC: Deposit Insurance | FDIC.gov\n\nSkip to main content\n\nAn official website of the United States government\n\nOfficial websites use .gov A .gov websi"
+      },
+      {
+        "id": "doc-aml-topic-4-1-2",
+        "title": "AML Topic 4 Part 2",
+        "text": "te belongs to an official government organization in the United States.\n\nSecure .gov websites use HTTPS A https:// means you’ve safely connected to th",
+        "score": 0.87,
+        "summary": "te belongs to an official government organization in the United States.  Secure .gov websites use HTTPS A https:// means you’ve safely connected to th...",
+        "extraction": "te belongs to an official government organization in the United States.\n\nSecure .gov websites use HTTPS A https:// means you’ve safely connected to th"
+      },
+      {
+        "id": "doc-aml-topic-4-1-3",
+        "title": "AML Topic 4 Part 3",
+        "text": "e .gov website. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education Deposit Insurance Co",
+        "score": 0.84,
+        "summary": "e .gov website. Share sensitive information only on official, secure websites.  Switch to English | Glossary  Financial Education Deposit Insurance Co...",
+        "extraction": "e .gov website. Share sensitive information only on official, secure websites.\n\nSwitch to English | Glossary\n\nFinancial Education Deposit Insurance Co"
+      },
+      {
+        "id": "doc-aml-topic-4-1-4",
+        "title": "AML Topic 4 Part 4",
+        "text": "nsumer News About the FDIC\n\nBreadcrumb Home English\n\nFDIC: Deposit Insurance\n\nThe FDIC provides deposit insurance to protect your money in the event o",
+        "score": 0.81,
+        "summary": "nsumer News About the FDIC  Breadcrumb Home English  FDIC: Deposit Insurance  The FDIC provides deposit insurance to protect your money in the event o...",
+        "extraction": "nsumer News About the FDIC\n\nBreadcrumb Home English\n\nFDIC: Deposit Insurance\n\nThe FDIC provides deposit insurance to protect your money in the event o"
+      },
+      {
+        "id": "doc-aml-topic-4-1-5",
+        "title": "AML Topic 4 Part 5",
+        "text": "f a bank failure. Your deposits are automatically insured up to at least $250,000 at each FDIC-insured bank.\n\nSee this page in English\n\nLearn how depo",
+        "score": 0.78,
+        "summary": "f a bank failure. Your deposits are automatically insured up to at least $250,000 at each FDIC-insured bank.  See this page in English  Learn how depo...",
+        "extraction": "f a bank failure. Your deposits are automatically insured up to at least $250,000 at each FDIC-insured bank.\n\nSee this page in English\n\nLearn how depo"
+      },
+      {
+        "id": "doc-aml-topic-4-1-6",
+        "title": "AML Topic 4 Part 6",
+        "text": "sit insurance works\n\nFrequently Asked Questions\n\nOur FAQ page offers details about deposit insurance coverage, the actions the FDIC takes in the event",
+        "score": 0.75,
+        "summary": "sit insurance works  Frequently Asked Questions  Our FAQ page offers details about deposit insurance coverage, the actions the FDIC takes in the event...",
+        "extraction": "sit insurance works\n\nFrequently Asked Questions\n\nOur FAQ page offers details about deposit insurance coverage, the actions the FDIC takes in the event"
+      },
+      {
+        "id": "doc-aml-topic-4-1-7",
+        "title": "AML Topic 4 Part 7",
+        "text": "of a bank failure, how to find FDIC-insured banks, and more information.\n\nFrequently Asked Questions about Deposit Insurance\n\nEDIE - the FDIC's Elect",
+        "score": 0.72,
+        "summary": "of a bank failure, how to find FDIC-insured banks, and more information.  Frequently Asked Questions about Deposit Insurance  EDIE - the FDIC's Elect...",
+        "extraction": "of a bank failure, how to find FDIC-insured banks, and more information.\n\nFrequently Asked Questions about Deposit Insurance\n\nEDIE - the FDIC's Elect"
+      },
+      {
+        "id": "doc-aml-topic-4-1-8",
+        "title": "AML Topic 4 Part 8",
+        "text": "ronic Deposit Insurance Estimator\n\nThe Electronic Deposit Insurance Estimator – known as EDIE – is an easy-to-use online tool for calculating your dep",
+        "score": 0.69,
+        "summary": "ronic Deposit Insurance Estimator  The Electronic Deposit Insurance Estimator – known as EDIE – is an easy-to-use online tool for calculating your dep...",
+        "extraction": "ronic Deposit Insurance Estimator\n\nThe Electronic Deposit Insurance Estimator – known as EDIE – is an easy-to-use online tool for calculating your dep"
+      }
+    ],
+    "answer": "The FDIC provides deposit insurance coverage up to at least $250,000 per depositor, per FDIC-insured bank, for each account ownership category. The FDIC's Electronic Deposit Insurance Estimator, or EDIE, is an online tool that helps enterprises and individuals calculate their deposit insurance coverage across different account types and banks, ensuring that they understand their coverage limits. In the event of a bank failure, the FDIC takes several steps to protect depositors, including transferring insured deposits to another FDIC-insured bank or paying depositors directly up to the insured limit, ensuring that customers have access to their insured funds quickly."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Small business owners need to ensure that their deposits are adequately insured by the FDIC. Understanding the extent of coverage is crucial for financial security.",
+        "question": "How can a small business owner determine their coverage under FDIC deposit insurance?",
+        "short_answers": [
+          "Call 1-877-275-3342",
+          "Contact the FDIC for specifics",
+          "Determine coverage by contacting FDIC"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Legal professionals may require detailed information on deposit insurance for their clients or cases, making access to reliable sources essential.",
+        "question": "What resources are available for legal professionals seeking information on deposit insurance?",
+        "short_answers": [
+          "Contact FDIC for inquiries",
+          "Reach out via provided contact number",
+          "Explore resources for legal professionals"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Staying informed about deposit insurance updates is crucial for bank regulators to ensure compliance and oversight.",
+        "question": "What options are available for bank regulators to stay informed about deposit insurance updates?",
+        "short_answers": [
+          "Subscribe to FDIC updates",
+          "Receive updates via email",
+          "Enter email for latest information"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 4",
+        "url": "https://www.fdic.gov/espanol/deposito"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "A small business owner can determine their coverage under FDIC deposit insurance by contacting the FDIC directly at 1-877-275-3342. Legal professionals seeking information on deposit insurance can contact the FDIC for detailed inquiries. Bank regulators can stay informed about deposit insurance updates by subscribing to FDIC updates through email."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Call 1-877-275-3342 to determine your coverage under deposit insurance or if you have any other specific questions about deposit insurance.",
+            "wikipage": "AML Topic 4"
+          },
+          {
+            "content": "Contact the FDIC... I am... Legal Professional... you wish to explore based on who you are",
+            "wikipage": "AML Topic 4"
+          },
+          {
+            "content": "Stay Informed (English) Enter your email address Subscribe",
+            "wikipage": "AML Topic 4"
+          }
+        ],
+        "long_answer": "A small business owner can determine their coverage under FDIC deposit insurance by contacting the FDIC directly at 1-877-275-3342. This service is available to answer any specific questions regarding deposit insurance coverage.\n\nLegal professionals seeking information on deposit insurance can contact the FDIC for detailed inquiries. They can reach out via the provided contact number or explore resources tailored to their professional needs.\n\nBank regulators can stay informed about deposit insurance updates by subscribing to FDIC updates through email. They can enter their email address to receive the latest information and notifications."
+      }
+    ],
+    "sample_id": "aml-topic-4-2",
+    "question": "How can a small business owner determine their coverage under FDIC deposit insurance?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-4-2-1",
+        "title": "AML Topic 4 Part 1",
+        "text": "osit insurance coverage.\n\nHow much of my money is insured? Learn more\n\nNeed help? Contact the FDIC\n\nCall 1-877-275-3342 to determine your coverage und",
+        "score": 0.9,
+        "summary": "osit insurance coverage.  How much of my money is insured? Learn more  Need help? Contact the FDIC  Call 1-877-275-3342 to determine your coverage und...",
+        "extraction": "osit insurance coverage.\n\nHow much of my money is insured? Learn more\n\nNeed help? Contact the FDIC\n\nCall 1-877-275-3342 to determine your coverage und"
+      },
+      {
+        "id": "doc-aml-topic-4-2-2",
+        "title": "AML Topic 4 Part 2",
+        "text": "er deposit insurance or if you have any other specific questions about deposit insurance.\n\nYouTube Analytics tag\n\nContact the FDIC\n\nContact\n\nStay Info",
+        "score": 0.87,
+        "summary": "er deposit insurance or if you have any other specific questions about deposit insurance.  YouTube Analytics tag  Contact the FDIC  Contact  Stay Info...",
+        "extraction": "er deposit insurance or if you have any other specific questions about deposit insurance.\n\nYouTube Analytics tag\n\nContact the FDIC\n\nContact\n\nStay Info"
+      },
+      {
+        "id": "doc-aml-topic-4-2-3",
+        "title": "AML Topic 4 Part 3",
+        "text": "rmed (English)\n\nEnter your email address Subscribe\n\non Facebook on X Share on X on Instagram on LinkedIn on Flickr on YouTube\n\nHow Can We Help You? (E",
+        "score": 0.84,
+        "summary": "rmed (English)  Enter your email address Subscribe  on Facebook on X Share on X on Instagram on LinkedIn on Flickr on YouTube  How Can We Help You? (E...",
+        "extraction": "rmed (English)\n\nEnter your email address Subscribe\n\non Facebook on X Share on X on Instagram on LinkedIn on Flickr on YouTube\n\nHow Can We Help You? (E"
+      },
+      {
+        "id": "doc-aml-topic-4-2-4",
+        "title": "AML Topic 4 Part 4",
+        "text": "nglish) to learn more specific information\n\nI am...\n\nBank Customer Banker Consumer Small Business Owner Analyst/Researcher/Student Legal Professional",
+        "score": 0.81,
+        "summary": "nglish) to learn more specific information  I am...  Bank Customer Banker Consumer Small Business Owner Analyst/Researcher/Student Legal Professional...",
+        "extraction": "nglish) to learn more specific information\n\nI am...\n\nBank Customer Banker Consumer Small Business Owner Analyst/Researcher/Student Legal Professional"
+      },
+      {
+        "id": "doc-aml-topic-4-2-5",
+        "title": "AML Topic 4 Part 5",
+        "text": "Bank Regulator Press/Media Vendor/Contractor Legislative Staff Member Jobseeker Court Clerk Prosecutor/Probation Officer Investigator\n\nyou wish to exp",
+        "score": 0.78,
+        "summary": "Bank Regulator Press/Media Vendor/Contractor Legislative Staff Member Jobseeker Court Clerk Prosecutor/Probation Officer Investigator  you wish to exp...",
+        "extraction": "Bank Regulator Press/Media Vendor/Contractor Legislative Staff Member Jobseeker Court Clerk Prosecutor/Probation Officer Investigator\n\nyou wish to exp"
+      },
+      {
+        "id": "doc-aml-topic-4-2-6",
+        "title": "AML Topic 4 Part 6",
+        "text": "lore based on who you are\n\nI want to...\n\nStart Here\n\nThis information is only available in English.",
+        "score": 0.75,
+        "summary": "lore based on who you are  I want to...  Start Here  This information is only available in English....",
+        "extraction": "lore based on who you are\n\nI want to...\n\nStart Here\n\nThis information is only available in English."
+      }
+    ],
+    "answer": "A small business owner can determine their coverage under FDIC deposit insurance by contacting the FDIC directly at 1-877-275-3342. Legal professionals seeking information on deposit insurance can contact the FDIC for detailed inquiries. Bank regulators can stay informed about deposit insurance updates by subscribing to FDIC updates through email."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "The FDIC provides educational programs aimed at enhancing the financial literacy of various groups, including small business owners.",
+        "question": "What resources does the FDIC offer to help small businesses with financial education?",
+        "short_answers": [
+          "Money Smart for Small Businesses program",
+          "Financial education for small businesses",
+          "FDIC's small business resources"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC focuses on providing financial education to various demographics, including older adults, to ensure they have the necessary tools to manage their finances securely.",
+        "question": "How does the FDIC assist older adults in managing their finances?",
+        "short_answers": [
+          "Money Smart for Older Adults program",
+          "Financial education for older adults",
+          "FDIC's resources for seniors"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "The FDIC is committed to fostering financial literacy from a young age through targeted educational programs for children and youth.",
+        "question": "What initiatives does the FDIC have in place to educate children and youth about financial literacy?",
+        "short_answers": [
+          "Money Smart for Youth program",
+          "Money Smart for Kids program",
+          "Financial literacy for children"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 5",
+        "url": "https://www.fdic.gov/espanol/noticiasconsumidor"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "The FDIC offers the 'Money Smart for Small Businesses' program, which is designed to provide financial education resources tailored to the needs of small business owners. The FDIC offers the 'Money Smart for Older Adults' program, which aims to provide financial education and resources specifically designed to help older adults manage their finances effectively and protect themselves from financial exploitation. The FDIC has developed the 'Money Smart for Youth' and 'Money Smart for Kids' programs, which are educational initiatives designed to teach children and young people about financial literacy, including basic banking, saving, and money management skills."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Military Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Money Smart for Older Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Military Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Military Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy",
+            "wikipage": "AML Topic 5"
+          }
+        ],
+        "long_answer": "The FDIC offers the 'Money Smart for Small Businesses' program, which is designed to provide financial education resources tailored to the needs of small business owners. This program helps them understand financial management, credit, and other essential financial skills.\n\nThe FDIC offers the 'Money Smart for Older Adults' program, which aims to provide financial education and resources specifically designed to help older adults manage their finances effectively and protect themselves from financial exploitation.\n\nThe FDIC has developed the 'Money Smart for Youth' and 'Money Smart for Kids' programs, which are educational initiatives designed to teach children and young people about financial literacy, including basic banking, saving, and money management skills."
+      }
+    ],
+    "sample_id": "aml-topic-5-1",
+    "question": "What resources does the FDIC offer to help small businesses with financial education?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-5-1-1",
+        "title": "AML Topic 5 Part 1",
+        "text": "Consumer News | FDIC.gov Skip to main content An official website of the United States government Official websites use .gov A .gov website belongs to",
+        "score": 0.9,
+        "summary": "Consumer News | FDIC.gov Skip to main content An official website of the United States government Official websites use .gov A .gov website belongs to...",
+        "extraction": "Consumer News | FDIC.gov Skip to main content An official website of the United States government Official websites use .gov A .gov website belongs to"
+      },
+      {
+        "id": "doc-aml-topic-5-1-2",
+        "title": "AML Topic 5 Part 2",
+        "text": "an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov website. Share sensitiv",
+        "score": 0.87,
+        "summary": "an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov website. Share sensitiv...",
+        "extraction": "an official U.S. government organization. Secure .gov websites use HTTPS A https:// means you’ve safely connected to the .gov website. Share sensitiv"
+      },
+      {
+        "id": "doc-aml-topic-5-1-3",
+        "title": "AML Topic 5 Part 3",
+        "text": "e information only on official, secure websites. Switch to English | Glossary Financial Education Deposit Insurance Consumer News About the FDIC Bread",
+        "score": 0.84,
+        "summary": "e information only on official, secure websites. Switch to English | Glossary Financial Education Deposit Insurance Consumer News About the FDIC Bread...",
+        "extraction": "e information only on official, secure websites. Switch to English | Glossary Financial Education Deposit Insurance Consumer News About the FDIC Bread"
+      },
+      {
+        "id": "doc-aml-topic-5-1-4",
+        "title": "AML Topic 5 Part 4",
+        "text": "crumb Home Español Spanish Consumer News Share This: Share on Facebook Share on X Share on X on LinkedIn Share through email Print Welcome to the FDIC",
+        "score": 0.81,
+        "summary": "crumb Home Español Spanish Consumer News Share This: Share on Facebook Share on X Share on X on LinkedIn Share through email Print Welcome to the FDIC...",
+        "extraction": "crumb Home Español Spanish Consumer News Share This: Share on Facebook Share on X Share on X on LinkedIn Share through email Print Welcome to the FDIC"
+      },
+      {
+        "id": "doc-aml-topic-5-1-5",
+        "title": "AML Topic 5 Part 5",
+        "text": "Financial Education Bank Account Overdraft Fees Deposit Accounts Find Your Bank Money Smart Program Community Teach Money Smart Money Smart for Older",
+        "score": 0.78,
+        "summary": "Financial Education Bank Account Overdraft Fees Deposit Accounts Find Your Bank Money Smart Program Community Teach Money Smart Money Smart for Older...",
+        "extraction": "Financial Education Bank Account Overdraft Fees Deposit Accounts Find Your Bank Money Smart Program Community Teach Money Smart Money Smart for Older"
+      },
+      {
+        "id": "doc-aml-topic-5-1-6",
+        "title": "AML Topic 5 Part 6",
+        "text": "Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Milita",
+        "score": 0.75,
+        "summary": "Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Milita...",
+        "extraction": "Adults Money Smart for Adults Money Smart for Small Businesses Money Smart for Youth News Money Smart for Kids Credit and Loans Debts Students Milita"
+      },
+      {
+        "id": "doc-aml-topic-5-1-7",
+        "title": "AML Topic 5 Part 7",
+        "text": "ry Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy Glossary of Financial Terms Contact Informati",
+        "score": 0.72,
+        "summary": "ry Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy Glossary of Financial Terms Contact Informati...",
+        "extraction": "ry Mortgages Credit Reports Loans Cards Financial Protection and Privacy Cybersecurity Mortgages Privacy Glossary of Financial Terms Contact Informati"
+      },
+      {
+        "id": "doc-aml-topic-5-1-8",
+        "title": "AML Topic 5 Part 8",
+        "text": "on FDIC Consumer News in Spanish provides practical information on how to become a more aware and informed user regarding financial services. Selected",
+        "score": 0.69,
+        "summary": "on FDIC Consumer News in Spanish provides practical information on how to become a more aware and informed user regarding financial services. Selected...",
+        "extraction": "on FDIC Consumer News in Spanish provides practical information on how to become a more aware and informed user regarding financial services. Selected"
+      }
+    ],
+    "answer": "The FDIC offers the 'Money Smart for Small Businesses' program, which is designed to provide financial education resources tailored to the needs of small business owners. The FDIC offers the 'Money Smart for Older Adults' program, which aims to provide financial education and resources specifically designed to help older adults manage their finances effectively and protect themselves from financial exploitation. The FDIC has developed the 'Money Smart for Youth' and 'Money Smart for Kids' programs, which are educational initiatives designed to teach children and young people about financial literacy, including basic banking, saving, and money management skills."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Switching banks can be a significant decision for enterprises, requiring a thorough evaluation of options to ensure the new bank meets their financial needs.",
+        "question": "What considerations should enterprises make before switching banks?",
+        "short_answers": [
+          "Assess banking needs",
+          "Compare fees and services",
+          "Consider impact on cash flow"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "With the rise of mobile banking, enterprises can leverage third-party apps to enhance their financial operations.",
+        "question": "How can enterprises utilize third-party apps for banking transactions?",
+        "short_answers": [
+          "Streamline transactions",
+          "Real-time monitoring",
+          "Assess app security"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "For small businesses, managing bank deposits effectively is crucial to ensure financial stability and growth.",
+        "question": "What should small businesses consider about their bank deposits?",
+        "short_answers": [
+          "Evaluate deposit safety",
+          "Understand insurance coverage",
+          "Compare interest rates"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 5",
+        "url": "https://www.fdic.gov/espanol/noticiasconsumidor"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "Enterprises should assess their current banking needs and compare them with the offerings of potential new banks. Enterprises can use third-party apps to streamline banking transactions by integrating them with their financial systems for better efficiency. Small businesses should evaluate the safety, accessibility, and interest rates of their bank deposits."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Are you thinking about switching banks? There is much to consider before moving to another financial institution.",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Banking transactions with third-party apps Mobile Banking June 2024",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Your business and your deposits Small Businesses May 2024",
+            "wikipage": "AML Topic 5"
+          }
+        ],
+        "long_answer": "Enterprises should assess their current banking needs and compare them with the offerings of potential new banks. This includes evaluating the fees, services, and features that each bank provides. Additionally, enterprises should consider the implications of moving accounts, such as the impact on cash flow, the availability of credit facilities, and the compatibility with existing financial systems.\n\nEnterprises can use third-party apps to streamline banking transactions by integrating them with their financial systems for better efficiency. These apps can provide real-time transaction monitoring, automated payments, and enhanced security features. However, it's essential for enterprises to assess the security and reliability of these apps to ensure compliance with financial regulations.\n\nSmall businesses should evaluate the safety, accessibility, and interest rates of their bank deposits. It's important to understand the insurance coverage provided by the bank, such as FDIC insurance in the United States, to protect their deposits. Additionally, businesses should consider how easily they can access funds when needed and compare interest rates to maximize returns on their deposits."
+      }
+    ],
+    "sample_id": "aml-topic-5-2",
+    "question": "What considerations should enterprises make before switching banks?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-5-2-1",
+        "title": "AML Topic 5 Part 1",
+        "text": "editions and articles offer helpful tips, effective advice, and logical strategies to protect and stretch the money you have worked hard to earn. Marc",
+        "score": 0.9,
+        "summary": "editions and articles offer helpful tips, effective advice, and logical strategies to protect and stretch the money you have worked hard to earn. Marc...",
+        "extraction": "editions and articles offer helpful tips, effective advice, and logical strategies to protect and stretch the money you have worked hard to earn. Marc"
+      },
+      {
+        "id": "doc-aml-topic-5-2-2",
+        "title": "AML Topic 5 Part 2",
+        "text": "h 2024 Are you thinking about switching banks? There is much to consider before moving to another financial institution. If you are thinking about lea",
+        "score": 0.87,
+        "summary": "h 2024 Are you thinking about switching banks? There is much to consider before moving to another financial institution. If you are thinking about lea...",
+        "extraction": "h 2024 Are you thinking about switching banks? There is much to consider before moving to another financial institution. If you are thinking about lea"
+      },
+      {
+        "id": "doc-aml-topic-5-2-3",
+        "title": "AML Topic 5 Part 3",
+        "text": "ving the bank where you currently have a checking or savings account, you need to understand your options. To ensure you get the account that suits yo",
+        "score": 0.84,
+        "summary": "ving the bank where you currently have a checking or savings account, you need to understand your options. To ensure you get the account that suits yo...",
+        "extraction": "ving the bank where you currently have a checking or savings account, you need to understand your options. To ensure you get the account that suits yo"
+      },
+      {
+        "id": "doc-aml-topic-5-2-4",
+        "title": "AML Topic 5 Part 4",
+        "text": "ur needs and perhaps avoid some stress, take a moment to review these tips. View the full article List of Consumer News Articles Click the arrows on t",
+        "score": 0.81,
+        "summary": "ur needs and perhaps avoid some stress, take a moment to review these tips. View the full article List of Consumer News Articles Click the arrows on t...",
+        "extraction": "ur needs and perhaps avoid some stress, take a moment to review these tips. View the full article List of Consumer News Articles Click the arrows on t"
+      },
+      {
+        "id": "doc-aml-topic-5-2-5",
+        "title": "AML Topic 5 Part 5",
+        "text": "he sides to sort in Ascending or Descending order Article Topic Date Is your bank branch relocating or closing? Money Management July 2024 Banking tra",
+        "score": 0.78,
+        "summary": "he sides to sort in Ascending or Descending order Article Topic Date Is your bank branch relocating or closing? Money Management July 2024 Banking tra...",
+        "extraction": "he sides to sort in Ascending or Descending order Article Topic Date Is your bank branch relocating or closing? Money Management July 2024 Banking tra"
+      },
+      {
+        "id": "doc-aml-topic-5-2-6",
+        "title": "AML Topic 5 Part 6",
+        "text": "nsactions with third-party apps Mobile Banking June 2024 Your business and your deposits Small Businesses May 2024 Tips for a good trip Money Manageme",
+        "score": 0.75,
+        "summary": "nsactions with third-party apps Mobile Banking June 2024 Your business and your deposits Small Businesses May 2024 Tips for a good trip Money Manageme...",
+        "extraction": "nsactions with third-party apps Mobile Banking June 2024 Your business and your deposits Small Businesses May 2024 Tips for a good trip Money Manageme"
+      },
+      {
+        "id": "doc-aml-topic-5-2-7",
+        "title": "AML Topic 5 Part 7",
+        "text": "nt April 2024 Are you thinking about switching banks? Financial Planning March 2024 Study your options and learn about student loans Young Adults Febr",
+        "score": 0.72,
+        "summary": "nt April 2024 Are you thinking about switching banks? Financial Planning March 2024 Study your options and learn about student loans Young Adults Febr...",
+        "extraction": "nt April 2024 Are you thinking about switching banks? Financial Planning March 2024 Study your options and learn about student loans Young Adults Febr"
+      },
+      {
+        "id": "doc-aml-topic-5-2-8",
+        "title": "AML Topic 5 Part 8",
+        "text": "uary 2024 Starting small can lead to big savings Money Saving January 2024 Older adults financially supporting their relatives Older Adults and Careg",
+        "score": 0.69,
+        "summary": "uary 2024 Starting small can lead to big savings Money Saving January 2024 Older adults financially supporting their relatives Older Adults and Careg...",
+        "extraction": "uary 2024 Starting small can lead to big savings Money Saving January 2024 Older adults financially supporting their relatives Older Adults and Careg"
+      }
+    ],
+    "answer": "Enterprises should assess their current banking needs and compare them with the offerings of potential new banks. Enterprises can use third-party apps to streamline banking transactions by integrating them with their financial systems for better efficiency. Small businesses should evaluate the safety, accessibility, and interest rates of their bank deposits."
+  },
+  {
+    "qa_pairs": [
+      {
+        "context": "Fraud against the elderly in mobile banking is a concern that enterprises need to address to protect vulnerable customers.",
+        "question": "How can enterprises protect elderly customers from fraud in mobile banking?",
+        "short_answers": [
+          "Implement security measures",
+          "Provide educational resources",
+          "Offer user-friendly interfaces"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Ensuring that customer deposits are insured by the FDIC is crucial for building trust and safeguarding client assets.",
+        "question": "What steps should enterprises take to ensure their customers' deposits are insured by the FDIC?",
+        "short_answers": [
+          "Use FDIC-insured banks",
+          "Communicate insurance coverage",
+          "Provide detailed information"
+        ],
+        "wikipage": null
+      },
+      {
+        "context": "Credit cards for young adults require careful consideration to foster responsible financial behavior and avoid debt traps.",
+        "question": "What are the key considerations for enterprises when offering credit cards to young adults?",
+        "short_answers": [
+          "Provide educational resources",
+          "Offer low-fee products",
+          "Ensure transparent communication"
+        ],
+        "wikipage": null
+      }
+    ],
+    "wikipages": [
+      {
+        "title": "AML Topic 5",
+        "url": "https://www.fdic.gov/espanol/noticiasconsumidor"
+      }
+    ],
+    "annotations": [
+      {
+        "knowledge": [],
+        "long_answer": "Enterprises can protect elderly customers from fraud in mobile banking by implementing robust security measures such as multi-factor authentication, providing user-friendly interfaces, and offering educational resources to help older adults recognize and report potential scams. Enterprises should ensure that their financial products are offered through FDIC-insured banks, clearly communicate the insurance coverage to customers, and provide detailed information about the limits and conditions of FDIC insurance. Enterprises should focus on providing educational resources about credit management, offer products with low fees and interest rates, and ensure transparent communication about terms and conditions to help young adults build healthy financial habits."
+      },
+      {
+        "knowledge": [
+          {
+            "content": "Mobile Banking October 2023 Fraud against the elderly Older Adults and Caregivers",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Is my money insured by the FDIC? Deposit Insurance July 2023",
+            "wikipage": "AML Topic 5"
+          },
+          {
+            "content": "Credit cards for young adults Young Adults August 2023",
+            "wikipage": "AML Topic 5"
+          }
+        ],
+        "long_answer": "Enterprises can protect elderly customers from fraud in mobile banking by implementing robust security measures such as multi-factor authentication, providing user-friendly interfaces, and offering educational resources to help older adults recognize and report potential scams.\n\nEnterprises should ensure that their financial products are offered through FDIC-insured banks, clearly communicate the insurance coverage to customers, and provide detailed information about the limits and conditions of FDIC insurance.\n\nEnterprises should focus on providing educational resources about credit management, offer products with low fees and interest rates, and ensure transparent communication about terms and conditions to help young adults build healthy financial habits."
+      }
+    ],
+    "sample_id": "aml-topic-5-3",
+    "question": "How can enterprises protect elderly customers from fraud in mobile banking?",
+    "docs": [
+      {
+        "id": "doc-aml-topic-5-3-1",
+        "title": "AML Topic 5 Part 1",
+        "text": "ivers December 2023 Are you looking for a certificate of deposit? Deposit Accounts November 2023 Scammers and fake banks Mobile Banking October 2023 F",
+        "score": 0.9,
+        "summary": "ivers December 2023 Are you looking for a certificate of deposit? Deposit Accounts November 2023 Scammers and fake banks Mobile Banking October 2023 F...",
+        "extraction": "ivers December 2023 Are you looking for a certificate of deposit? Deposit Accounts November 2023 Scammers and fake banks Mobile Banking October 2023 F"
+      },
+      {
+        "id": "doc-aml-topic-5-3-2",
+        "title": "AML Topic 5 Part 2",
+        "text": "raud against the elderly Older Adults and Caregivers September 2023 Credit cards for young adults Young Adults August 2023 Is my money insured by the",
+        "score": 0.87,
+        "summary": "raud against the elderly Older Adults and Caregivers September 2023 Credit cards for young adults Young Adults August 2023 Is my money insured by the...",
+        "extraction": "raud against the elderly Older Adults and Caregivers September 2023 Credit cards for young adults Young Adults August 2023 Is my money insured by the"
+      },
+      {
+        "id": "doc-aml-topic-5-3-3",
+        "title": "AML Topic 5 Part 3",
+        "text": "FDIC? Deposit Insurance July 2023 The operation and importance of real estate appraisals Mortgages June 2023 Do you need a loan for your small busines",
+        "score": 0.84,
+        "summary": "FDIC? Deposit Insurance July 2023 The operation and importance of real estate appraisals Mortgages June 2023 Do you need a loan for your small busines...",
+        "extraction": "FDIC? Deposit Insurance July 2023 The operation and importance of real estate appraisals Mortgages June 2023 Do you need a loan for your small busines"
+      },
+      {
+        "id": "doc-aml-topic-5-3-4",
+        "title": "AML Topic 5 Part 4",
+        "text": "s? Small Businesses May 2023 Your first job? Young Adults April 2023 Financial inclusion and empowerment Money Management March 2023 Tax refund season",
+        "score": 0.81,
+        "summary": "s? Small Businesses May 2023 Your first job? Young Adults April 2023 Financial inclusion and empowerment Money Management March 2023 Tax refund season...",
+        "extraction": "s? Small Businesses May 2023 Your first job? Young Adults April 2023 Financial inclusion and empowerment Money Management March 2023 Tax refund season"
+      },
+      {
+        "id": "doc-aml-topic-5-3-5",
+        "title": "AML Topic 5 Part 5",
+        "text": "! Money Management February 2023 Credit card checks and cash advances Credit Cards January 2023 Avoid scams when shopping for online deals - PDF Scams",
+        "score": 0.78,
+        "summary": "! Money Management February 2023 Credit card checks and cash advances Credit Cards January 2023 Avoid scams when shopping for online deals - PDF Scams...",
+        "extraction": "! Money Management February 2023 Credit card checks and cash advances Credit Cards January 2023 Avoid scams when shopping for online deals - PDF Scams"
+      },
+      {
+        "id": "doc-aml-topic-5-3-6",
+        "title": "AML Topic 5 Part 6",
+        "text": "and Frauds December 2022 Service members on the move - PDF Financial Planning November 2022 Would you like more financial privacy? - PDF Financial Di",
+        "score": 0.75,
+        "summary": "and Frauds December 2022 Service members on the move - PDF Financial Planning November 2022 Would you like more financial privacy? - PDF Financial Di...",
+        "extraction": "and Frauds December 2022 Service members on the move - PDF Financial Planning November 2022 Would you like more financial privacy? - PDF Financial Di"
+      },
+      {
+        "id": "doc-aml-topic-5-3-7",
+        "title": "AML Topic 5 Part 7",
+        "text": "sclosures October 2022 Bet on the Environment - PDF Mobile Banking September 2022 The importance of deposit insurance and understanding your coverage",
+        "score": 0.72,
+        "summary": "sclosures October 2022 Bet on the Environment - PDF Mobile Banking September 2022 The importance of deposit insurance and understanding your coverage...",
+        "extraction": "sclosures October 2022 Bet on the Environment - PDF Mobile Banking September 2022 The importance of deposit insurance and understanding your coverage"
+      },
+      {
+        "id": "doc-aml-topic-5-3-8",
+        "title": "AML Topic 5 Part 8",
+        "text": "- PDF Deposit Insurance August 2022 Saying \"I do\" to sharing finances - PDF Financial Planning July 2022 How to apply for your first mortgage loan - P",
+        "score": 0.69,
+        "summary": "- PDF Deposit Insurance August 2022 Saying \"I do\" to sharing finances - PDF Financial Planning July 2022 How to apply for your first mortgage loan - P...",
+        "extraction": "- PDF Deposit Insurance August 2022 Saying \"I do\" to sharing finances - PDF Financial Planning July 2022 How to apply for your first mortgage loan - P"
+      }
+    ],
+    "answer": "Enterprises can protect elderly customers from fraud in mobile banking by implementing robust security measures such as multi-factor authentication, providing user-friendly interfaces, and offering educational resources to help older adults recognize and report potential scams. Enterprises should ensure that their financial products are offered through FDIC-insured banks, clearly communicate the insurance coverage to customers, and provide detailed information about the limits and conditions of FDIC insurance. Enterprises should focus on providing educational resources about credit management, offer products with low fees and interest rates, and ensure transparent communication about terms and conditions to help young adults build healthy financial habits."
+  }
+]
